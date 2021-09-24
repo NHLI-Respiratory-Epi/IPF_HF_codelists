@@ -1,0 +1,193 @@
+icd10,icd_desc
+D50,Iron deficiency anaemia
+D50.0,Iron deficiency anaemia secondary to blood loss (chronic)
+D50.1,Sideropenic dysphagia
+D50.8,Other iron deficiency anaemias
+D50.9,"Iron deficiency anaemia, unspecified"
+D51,Vitamin B12 deficiency anaemia
+D51.0,Vitamin B12 deficiency anaemia due to intrinsic factor deficiency
+D51.1,Vitamin B12 deficiency anaemia due to selective vitamin B12 malabsorption with proteinuria
+D51.2,Transcobalamin II deficiency
+D51.3,Other dietary vitamin B12 deficiency anaemia
+D51.8,Other vitamin B12 deficiency anaemias
+D51.9,"Vitamin B12 deficiency anaemia, unspecified"
+D52,Folate deficiency anaemia
+D52.0,Dietary folate deficiency anaemia
+D52.1,Drug-induced folate deficiency anaemia
+D52.8,Other folate deficiency anaemias
+D52.9,"Folate deficiency anaemia, unspecified"
+D53,Other nutritional anaemias
+D53.0,Protein deficiency anaemia
+D53.1,"Other megaloblastic anaemias, not elsewhere classified"
+D53.2,Scorbutic anaemia
+D53.8,Other specified nutritional anaemias
+D53.9,"Nutritional anaemia, unspecified"
+D55,Anaemia due to enzyme disorders
+D55.0,Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency
+D55.1,Anaemia due to other disorders of glutathione metabolism
+D55.2,Anaemia due to disorders of glycolytic enzymes
+D55.3,Anaemia due to disorders of nucleotide metabolism
+D55.8,Other anaemias due to enzyme disorders
+D55.9,"Anaemia due to enzyme disorder, unspecified"
+D56,Thalassaemia
+D56.0,Alpha thalassaemia
+D56.1,Beta thalassaemia
+D56.2,Delta-beta thalassaemia
+D56.3,Thalassaemia trait
+D56.4,Hereditary persistence of fetal haemoglobin [HPFH]
+D56.8,Other thalassaemias
+D56.9,"Thalassaemia, unspecified"
+D57,Sickle-cell disorders
+D57.0,Sickle-cell anaemia with crisis
+D57.1,Sickle-cell anaemia without crisis
+D57.2,Double heterozygous sickling disorders
+D57.3,Sickle-cell trait
+D57.8,Other sickle-cell disorders
+D58,Other hereditary haemolytic anaemias
+D58.0,Hereditary spherocytosis
+D58.1,Hereditary elliptocytosis
+D58.2,Other haemoglobinopathies
+D58.8,Other specified hereditary haemolytic anaemias
+D58.9,"Hereditary haemolytic anaemia, unspecified"
+D59,Acquired haemolytic anaemia
+D59.0,Drug-induced autoimmune haemolytic anaemia
+D59.1,Other autoimmune haemolytic anaemias
+D59.2,Drug-induced nonautoimmune haemolytic anaemia
+D59.3,Haemolytic-uraemic syndrome
+D59.4,Other nonautoimmune haemolytic anaemias
+D59.5,Paroxysmal nocturnal haemoglobinuria [Marchiafava-Micheli]
+D59.6,Haemoglobinuria due to haemolysis from other external causes
+D59.8,Other acquired haemolytic anaemias
+D59.9,"Acquired haemolytic anaemia, unspecified"
+D60,Acquired pure red cell aplasia [erythroblastopenia]
+D60.0,Chronic acquired pure red cell aplasia
+D60.1,Transient acquired pure red cell aplasia
+D60.8,Other acquired pure red cell aplasias
+D60.9,"Acquired pure red cell aplasia, unspecified"
+D61,Other aplastic anaemias
+D61.0,Constitutional aplastic anaemia
+D61.1,Drug-induced aplastic anaemia
+D61.2,Aplastic anaemia due to other external agents
+D61.3,Idiopathic aplastic anaemia
+D61.8,Other specified aplastic anaemias
+D61.9,"Aplastic anaemia, unspecified"
+D62,Acute posthaemorrhagic anaemia
+D63,Anaemia in chronic diseases classified elsewhere
+D63.0,Anaemia in neoplastic disease
+D63.8,Anaemia in other chronic diseases classified elsewhere
+D64,Other anaemias
+D64.0,Hereditary sideroblastic anaemia
+D64.1,Secondary sideroblastic anaemia due to disease
+D64.2,Secondary sideroblastic anaemia due to drugs and toxins
+D64.3,Other sideroblastic anaemias
+D64.4,Congenital dyserythropoietic anaemia
+D64.8,Other specified anaemias
+D64.9,"Anaemia, unspecified"
+D65,Disseminated intravascular coagulation [defibrination syndrome]
+D66,Hereditary factor VIII deficiency
+D67,Hereditary factor IX deficiency
+D68,Other coagulation defects
+D68.0,Von Willebrand disease
+D68.1,Hereditary factor XI deficiency
+D68.2,Hereditary deficiency of other clotting factors
+D68.3,Haemorrhagic disorder due to circulating anticoagulants
+D68.4,Acquired coagulation factor deficiency
+D68.5,Primary thrombophilia
+D68.6,Other thrombophilia
+D68.8,Other specified coagulation defects
+D68.9,"Coagulation defect, unspecified"
+D69,Purpura and other haemorrhagic conditions
+D69.0,Allergic purpura
+D69.1,Qualitative platelet defects
+D69.2,Other nonthrombocytopenic purpura
+D69.3,Idiopathic thrombocytopenic purpura
+D69.4,Other primary thrombocytopenia
+D69.5,Secondary thrombocytopenia
+D69.6,"Thrombocytopenia, unspecified"
+D69.8,Other specified haemorrhagic conditions
+D69.9,"Haemorrhagic condition, unspecified"
+D70,Agranulocytosis
+D71,Functional disorders of polymorphonuclear neutrophils
+D72,Other disorders of white blood cells
+D72.0,Genetic anomalies of leukocytes
+D72.1,Eosinophilia
+D72.8,Other specified disorders of white blood cells
+D72.9,"Disorder of white blood cells, unspecified"
+D73,Diseases of spleen
+D73.0,Hyposplenism
+D73.1,Hypersplenism
+D73.2,Chronic congestive splenomegaly
+D73.3,Abscess of spleen
+D73.4,Cyst of spleen
+D73.5,Infarction of spleen
+D73.8,Other diseases of spleen
+D73.9,"Disease of spleen, unspecified"
+D74,Methaemoglobinaemia
+D74.0,Congenital methaemoglobinaemia
+D74.8,Other methaemoglobinaemias
+D74.9,"Methaemoglobinaemia, unspecified"
+D75,Other diseases of blood and blood-forming organs
+D75.0,Familial erythrocytosis
+D75.1,Secondary polycythaemia
+D75.8,Other specified diseases of blood and blood-forming organs
+D75.9,"Disease of blood and blood-forming organs, unspecified"
+D76,Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue
+D76.1,Haemophagocytic lymphohistiocytosis
+D76.2,"Haemophagocytic syndrome, infection-associated"
+D76.2,Other histiocytosis syndromes
+D77,Other disorders of blood and blood-forming organs in diseases classified elsewhere
+D80,Immunodeficiency with predominantly antibody defects
+D80.0,Hereditary hypogammaglobulinaemia
+D80.1,Nonfamilial hypogammaglobulinaemia
+D80.2,Selective deficiency of immunoglobulin A [IgA]
+D80.3,Selective deficiency of immunoglobulin G [IgG] subclasses
+D80.4,Selective deficiency of immunoglobulin M [IgM]
+D80.5,Immunodeficiency with increased immunoglobulin M [IgM]
+D80.6,Antibody deficiency with near-normal immunoglobulins or with hyperimmunoglobulinaemia
+D80.7,Transient hypogammaglobulinaemia of infancy
+D80.8,Other immunodeficiencies with predominantly antibody defects
+D80.9,"Immunodeficiency with predominantly antibody defects, unspecified"
+D81,Combined immunodeficiencies
+D81.0,Severe combined immunodeficiency [SCID] with reticular dysgenesis
+D81.1,Severe combined immunodeficiency [SCID] with low T- and B-cell numbers
+D81.2,Severe combined immunodeficiency [SCID] with low or normal B-cell numbers
+D81.3,Adenosine deaminase [ADA] deficiency
+D81.4,Nezelof syndrome
+D81.5,Purine nucleoside phosphorylase [PNP] deficiency
+D81.6,Major histocompatibility complex class I deficiency
+D81.7,Major histocompatibility complex class II deficiency
+D81.8,Other combined immunodeficiencies
+D81.9,"Combined immunodeficiency, unspecified"
+D82,Immunodeficiency associated with other major defects
+D82.0,Wiskott-Aldrich syndrome
+D82.1,Di George syndrome
+D82.2,Immunodeficiency with short-limbed stature
+D82.3,Immunodeficiency following hereditary defective response to Epstein-Barr virus
+D82.4,Hyperimmunoglobulin E [IgE] syndrome
+D82.8,Immunodeficiency associated with other specified major defects
+D82.9,"Immunodeficiency associated with major defect, unspecified"
+D83,Common variable immunodeficiency
+D83.0,Common variable immunodeficiency with predominant abnormalities of B-cell numbers and function
+D83.1,Common variable immunodeficiency with predominant immunoregulatory T-cell disorders
+D83.2,Common variable immunodeficiency with autoantibodies to B- or T-cells
+D83.8,Other common variable immunodeficiencies
+D83.9,"Common variable immunodeficiency, unspecified"
+D84,Other immunodeficiencies
+D84.0,Lymphocyte function antigen-1 [LFA-1] defect
+D84.1,Defects in the complement system
+D84.8,Other specified immunodeficiencies
+D84.9,"Immunodeficiency, unspecified"
+D86,Sarcoidosis
+D86.0,Sarcoidosis of lung
+D86.1,Sarcoidosis of lymph nodes
+D86.2,Sarcoidosis of lung with sarcoidosis of lymph nodes
+D86.3,Sarcoidosis of skin
+D86.8,Sarcoidosis of other and combined sites
+D86.9,"Sarcoidosis, unspecified"
+D89,"Other disorders involving the immune mechanism, not elsewhere classified"
+D89.0,Polyclonal hypergammaglobulinaemia
+D89.1,Cryoglobulinaemia
+D89.2,"Hypergammaglobulinaemia, unspecified"
+D89.3,Immune reconstitution syndrome
+D89.8,"Other specified disorders involving the immune mechanism, not elsewhere classified"
+D89.9,"Disorder involving the immune mechanism, unspecified"

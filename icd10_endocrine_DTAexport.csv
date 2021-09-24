@@ -1,0 +1,412 @@
+icd10,icd_desc
+E00,Congenital iodine-deficiency syndrome
+E00.0,"Congenital iodine-deficiency syndrome, neurological type"
+E00.1,"Congenital iodine-deficiency syndrome, myxoedematous type"
+E00.2,"Congenital iodine-deficiency syndrome, mixed type"
+E00.9,"Congenital iodine-deficiency syndrome, unspecified"
+E01,Iodine-deficiency-related thyroid disorders and allied conditions
+E01.0,Iodine-deficiency-related diffuse (endemic) goitre
+E01.1,Iodine-deficiency-related multinodular (endemic) goitre
+E01.2,"Iodine-deficiency-related (endemic) goitre, unspecified"
+E01.8,Other iodine-deficiency-related thyroid disorders and allied conditions
+E02,Subclinical iodine-deficiency hypothyroidism
+E03,Other hypothyroidism
+E03.0,Congenital hypothyroidism with diffuse goitre
+E03.1,Congenital hypothyroidism without goitre
+E03.2,Hypothyroidism due to medicaments and other exogenous substances
+E03.3,Postinfectious hypothyroidism
+E03.4,Atrophy of thyroid (acquired)
+E03.5,Myxoedema coma
+E03.8,Other specified hypothyroidism
+E03.9,"Hypothyroidism, unspecified"
+E04,Other nontoxic goitre
+E04.0,Nontoxic diffuse goitre
+E04.1,Nontoxic single thyroid nodule
+E04.2,Nontoxic multinodular goitre
+E04.8,Other specified nontoxic goitre
+E04.9,"Nontoxic goitre, unspecified"
+E05,Thyrotoxicosis [hyperthyroidism]
+E05.0,Thyrotoxicosis with diffuse goitre
+E05.1,Thyrotoxicosis with toxic single thyroid nodule
+E05.2,Thyrotoxicosis with toxic multinodular goitre
+E05.3,Thyrotoxicosis from ectopic thyroid tissue
+E05.4,Thyrotoxicosis factitia
+E05.5,Thyroid crisis or storm
+E05.8,Other thyrotoxicosis
+E05.9,"Thyrotoxicosis, unspecified"
+E06,Thyroiditis
+E06.0,Acute thyroiditis
+E06.1,Subacute thyroiditis
+E06.2,Chronic thyroiditis with transient thyrotoxicosis
+E06.3,Autoimmune thyroiditis
+E06.4,Drug-induced thyroiditis
+E06.5,Other chronic thyroiditis
+E06.9,"Thyroiditis, unspecified"
+E07,Other disorders of thyroid
+E07.0,Hypersecretion of calcitonin
+E07.1,Dyshormogenetic goitre
+E07.8,Other specified disorders of thyroid
+E07.9,"Disorder of thyroid, unspecified"
+E10,Type 1 diabetes mellitus
+E10.0,Type 1 diabetes mellitus with coma 
+E10.1,Type 1 diabetes mellitus with ketoacidosis 
+E10.2,Type 1 diabetes mellitus with renal complications 
+E10.3,Type 1 diabetes mellitus with ophthalmic complications 
+E10.4,Type 1 diabetes mellitus with neurological complications 
+E10.5,Type 1 diabetes mellitus with peripheral circulatory complications 
+E10.6,Type 1 diabetes mellitus with other specified complications 
+E10.7,Type 1 diabetes mellitus with multiple complications 
+E10.8,Type 1 diabetes mellitus with unspecified complications 
+E10.9,Type 1 diabetes mellitus without complications 
+E11,Type 2 diabetes mellitus
+E11.0,Type 2 diabetes mellitus with coma 
+E11.1,Type 2 diabetes mellitus with ketoacidosis 
+E11.2,Type 2 diabetes mellitus with renal complications 
+E11.3,Type 2 diabetes mellitus with ophthalmic complications 
+E11.4,Type 2 diabetes mellitus with neurological complications 
+E11.5,Type 2 diabetes mellitus with peripheral circulatory complications 
+E11.6,Type 2 diabetes mellitus with other specified complications 
+E11.7,Type 2 diabetes mellitus with multiple complications 
+E11.8,Type 2 diabetes mellitus with unspecified complications 
+E11.9,Type 2 diabetes mellitus without complications 
+E12,Malnutrition-related diabetes mellitus
+E12.0,Malnutrition-related diabetes mellitus with coma 
+E12.1,Malnutrition-related diabetes mellitus with ketoacidosis 
+E12.2,Malnutrition-related diabetes mellitus with renal complications 
+E12.3,Malnutrition-related diabetes mellitus with ophthalmic complications 
+E12.4,Malnutrition-related diabetes mellitus with neurological complications 
+E12.5,Malnutrition-related diabetes mellitus with peripheral circulatory complications 
+E12.6,Malnutrition-related diabetes mellitus with other specified complications 
+E12.7,Malnutrition-related diabetes mellitus with multiple complications 
+E12.8,Malnutrition-related diabetes mellitus with unspecified complications 
+E12.9,Malnutrition-related diabetes mellitus without complications 
+E13,Other specified diabetes mellitus
+E13.0,Other specified diabetes mellitus with coma 
+E13.1,Other specified diabetes mellitus with ketoacidosis 
+E13.2,Other specified diabetes mellitus with renal complications 
+E13.3,Other specified diabetes mellitus with ophthalmic complications 
+E13.4,Other specified diabetes mellitus with neurological complications 
+E13.5,Other specified diabetes mellitus with peripheral circulatory complications 
+E13.6,Other specified diabetes mellitus with other specified complications 
+E13.7,Other specified diabetes mellitus with multiple complications 
+E13.8,Other specified diabetes mellitus with unspecified complications 
+E13.9,Other specified diabetes mellitus without complications 
+E14,Unspecified diabetes mellitus
+E14.0,Unspecified diabetes mellitus with coma 
+E14.1,Unspecified diabetes mellitus with ketoacidosis 
+E14.2,Unspecified diabetes mellitus with renal complications 
+E14.3,Unspecified diabetes mellitus with ophthalmic complications 
+E14.4,Unspecified diabetes mellitus with neurological complications 
+E14.5,Unspecified diabetes mellitus with peripheral circulatory complications 
+E14.6,Unspecified diabetes mellitus with other specified complications 
+E14.7,Unspecified diabetes mellitus with multiple complications 
+E14.8,Unspecified diabetes mellitus with unspecified complications 
+E14.9,Unspecified diabetes mellitus without complications 
+E15,Nondiabetic hypoglycaemic coma
+E16,Other disorders of pancreatic internal secretion
+E16.0,Drug-induced hypoglycaemia without coma
+E16.1,Other hypoglycaemia
+E16.2,"Hypoglycaemia, unspecified"
+E16.3,Increased secretion of glucagon
+E16.4,Abnormal secretion of gastrin
+E16.8,Other specified disorders of pancreatic internal secretion
+E16.9,"Disorder of pancreatic internal secretion, unspecified"
+E20,Hypoparathyroidism
+E20.0,Idiopathic hypoparathyroidism
+E20.1,Pseudohypoparathyroidism
+E20.8,Other hypoparathyroidism
+E20.9,"Hypoparathyroidism, unspecified"
+E21,Hyperparathyroidism and other disorders of parathyroid gland
+E21.0,Primary hyperparathyroidism
+E21.1,"Secondary hyperparathyroidism, not elsewhere classified"
+E21.2,Other hyperparathyroidism
+E21.3,"Hyperparathyroidism, unspecified"
+E21.4,Other specified disorders of parathyroid gland
+E21.5,"Disorder of parathyroid gland, unspecified"
+E22,Hyperfunction of pituitary gland
+E22.0,Acromegaly and pituitary gigantism
+E22.1,Hyperprolactinaemia
+E22.2,Syndrome of inappropriate secretion of antidiuretic hormone
+E22.8,Other hyperfunction of pituitary gland
+E22.9,"Hyperfunction of pituitary gland, unspecified"
+E23,Hypofunction and other disorders of pituitary gland
+E23.0,Hypopituitarism
+E23.1,Drug-induced hypopituitarism
+E23.2,Diabetes insipidus
+E23.3,"Hypothalamic dysfunction, not elsewhere classified"
+E23.6,Other disorders of pituitary gland
+E23.7,"Disorder of pituitary gland, unspecified"
+E24,Cushing syndrome
+E24.0,Pituitary-dependent Cushing disease
+E24.1,Nelson syndrome
+E24.2,Drug-induced Cushing syndrome
+E24.3,Ectopic ACTH syndrome
+E24.4,Alcohol-induced pseudo-Cushing syndrome
+E24.8,Other Cushing syndrome
+E24.9,"Cushing syndrome, unspecified"
+E25,Adrenogenital disorders
+E25.0,Congenital adrenogenital disorders associated with enzyme deficiency
+E25.8,Other adrenogenital disorders
+E25.9,"Adrenogenital disorder, unspecified"
+E26,Hyperaldosteronism
+E26.0,Primary hyperaldosteronism
+E26.1,Secondary hyperaldosteronism
+E26.8,Other hyperaldosteronism
+E26.9,"Hyperaldosteronism, unspecified"
+E27,Other disorders of adrenal gland
+E27.0,Other adrenocortical overactivity
+E27.1,Primary adrenocortical insufficiency
+E27.2,Addisonian crisis
+E27.3,Drug-induced adrenocortical insufficiency
+E27.4,Other and unspecified adrenocortical insufficiency
+E27.5,Adrenomedullary hyperfunction
+E27.8,Other specified disorders of adrenal gland
+E27.9,"Disorder of adrenal gland, unspecified"
+E28,Ovarian dysfunction
+E28.0,Hypersecretion of ovarian estrogens
+E28.1,Hypersecretion of ovarian androgens 
+E28.2,Polycystic ovarian syndrome
+E28.3,Primary ovarian failure
+E28.8,Other ovarian dysfunction
+E28.9,"Ovarian dysfunction, unspecified"
+E29,Testicular dysfunction
+E29.0,Testicular hyperfunction
+E29.1,Testicular hypofunction
+E29.8,Other testicular dysfunction
+E29.9,"Testicular dysfunction, unspecified"
+E30,"Disorders of puberty, not elsewhere classified"
+E30.0,Delayed puberty
+E30.1,Precocious puberty
+E30.8,Other disorders of puberty
+E30.9,"Disorder of puberty, unspecified"
+E31,Polyglandular dysfunction
+E31.0,Autoimmune polyglandular failure
+E31.1,Polyglandular hyperfunction
+E31.8,Other polyglandular dysfunction
+E31.9,"Polyglandular dysfunction, unspecified"
+E32,Diseases of thymus
+E32.0,Persistent hyperplasia of thymus
+E32.1,Abscess of thymus
+E32.8,Other diseases of thymus
+E32.9,"Disease of thymus, unspecified"
+E34,Other endocrine disorders
+E34.0,Carcinoid syndrome
+E34.1,Other hypersecretion of intestinal hormones
+E34.2,"Ectopic hormone secretion, not elsewhere classified"
+E34.3,"Short stature, not elsewhere classified"
+E34.4,Constitutional tall stature
+E34.5,Androgen resistance syndrome
+E34.8,Other specified endocrine disorders
+E34.9,"Endocrine disorder, unspecified"
+E35,Disorders of endocrine glands in diseases classified elsewhere
+E35.0,Disorders of thyroid gland in diseases classified elsewhere
+E35.1,Disorders of adrenal glands in diseases classified elsewhere
+E35.8,Disorders of other endocrine glands in diseases classified elsewhere
+E40,Kwashiorkor
+E41,Nutritional marasmus
+E42,Marasmic kwashiorkor
+E43,Unspecified severe protein-energy malnutrition
+E44,Protein-energy malnutrition of moderate and mild degree
+E44.0,Moderate protein-energy malnutrition
+E44.1,Mild protein-energy malnutrition
+E45,Retarded development following protein-energy malnutrition
+E46,Unspecified protein-energy malnutrition
+E50,Vitamin A deficiency
+E50.0,Vitamin A deficiency with conjunctival xerosis
+E50.1,Vitamin A deficiency with Bitot spot and conjunctival xerosis
+E50.2,Vitamin A deficiency with corneal xerosis
+E50.3,Vitamin A deficiency with corneal ulceration and xerosis
+E50.4,Vitamin A deficiency with keratomalacia
+E50.5,Vitamin A deficiency with night blindness
+E50.6,Vitamin A deficiency with xerophthalmic scars of cornea
+E50.7,Other ocular manifestations of vitamin A deficiency
+E50.8,Other manifestations of vitamin A deficiency
+E50.9,"Vitamin A deficiency, unspecified"
+E51,Thiamine deficiency
+E51.1,Beriberi
+E51.2,Wernicke encephalopathy
+E51.8,Other manifestations of thiamine deficiency
+E51.9,"Thiamine deficiency, unspecified"
+E52,Niacin deficiency [pellagra]
+E53,Deficiency of other B group vitamins
+E53.0,Riboflavin deficiency
+E53.1,Pyridoxine deficiency
+E53.8,Deficiency of other specified B group vitamins
+E53.9,"Vitamin B deficiency, unspecified"
+E54,Ascorbic acid deficiency
+E55,Vitamin D deficiency
+E55.0,"Rickets, active"
+E55.9,"Vitamin D deficiency, unspecified"
+E56,Other vitamin deficiencies
+E56.0,Deficiency of vitamin E
+E56.1,Deficiency of vitamin K
+E56.8,Deficiency of other vitamins
+E56.9,"Vitamin deficiency, unspecified"
+E58,Dietary calcium deficiency
+E59,Dietary selenium deficiency
+E60,Dietary zinc deficiency
+E61,Deficiency of other nutrient elements
+E61.0,Copper deficiency
+E61.1,Iron deficiency
+E61.2,Magnesium deficiency
+E61.3,Manganese deficiency
+E61.4,Chromium deficiency
+E61.5,Molybdenum deficiency
+E61.6,Vanadium deficiency
+E61.7,Deficiency of multiple nutrient elements
+E61.8,Deficiency of other specified nutrient elements
+E61.9,"Deficiency of nutrient element, unspecified"
+E63,Other nutritional deficiencies
+E63.0,Essential fatty acid [EFA] deficiency
+E63.1,Imbalance of constituents of food intake
+E63.8,Other specified nutritional deficiencies
+E63.9,"Nutritional deficiency, unspecified"
+E64,Sequelae of malnutrition and other nutritional deficiencies
+E64.0,Sequelae of protein-energy malnutrition
+E64.1,Sequelae of vitamin A deficiency
+E64.2,Sequelae of vitamin C deficiency
+E64.3,Sequelae of rickets
+E64.8,Sequelae of other nutritional deficiencies
+E64.9,Sequelae of unspecified nutritional deficiency
+E65,Localized adiposity
+E66,Obesity
+E66.0,Obesity due to excess calories
+E66.1,Drug-induced obesity
+E66.2,Extreme obesity with alveolar hypoventilation
+E66.8,Other obesity
+E66.9,"Obesity, unspecified"
+E67,Other hyperalimentation
+E67.0,Hypervitaminosis A
+E67.1,Hypercarotenaemia
+E67.2,Megavitamin-B6 syndrome
+E67.3,Hypervitaminosis D
+E67.8,Other specified hyperalimentation
+E68,Sequelae of hyperalimentation
+E70,Disorders of aromatic amino-acid metabolism
+E70.0,Classical phenylketonuria
+E70.1,Other hyperphenylalaninaemias
+E70.2,Disorders of tyrosine metabolism
+E70.3,Albinism
+E70.8,Other disorders of aromatic amino-acid metabolism
+E70.9,"Disorder of aromatic amino-acid metabolism, unspecified"
+E71,Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism
+E71.0,Maple-syrup-urine disease
+E71.1,Other disorders of branched-chain amino-acid metabolism
+E71.2,"Disorder of branched-chain amino-acid metabolism, unspecified"
+E71.3,Disorders of fatty-acid metabolism
+E72,Other disorders of amino-acid metabolism
+E72.0,Disorders of amino-acid transport
+E72.1,Disorders of sulfur-bearing amino-acid metabolism
+E72.2,Disorders of urea cycle metabolism
+E72.3,Disorders of lysine and hydroxylysine metabolism
+E72.4,Disorders of ornithine metabolism
+E72.5,Disorders of glycine metabolism
+E72.8,Other specified disorders of amino-acid metabolism
+E72.9,"Disorder of amino-acid metabolism, unspecified"
+E73,Lactose intolerance
+E73.0,Congenital lactase deficiency
+E73.1,Secondary lactase deficiency
+E73.8,Other lactose intolerance
+E73.9,"Lactose intolerance, unspecified"
+E74,Other disorders of carbohydrate metabolism
+E74.0,Glycogen storage disease
+E74.1,Disorders of fructose metabolism
+E74.2,Disorders of galactose metabolism
+E74.3,Other disorders of intestinal carbohydrate absorption
+E74.4,Disorders of pyruvate metabolism and gluconeogenesis
+E74.8,Other specified disorders of carbohydrate metabolism
+E74.9,"Disorder of carbohydrate metabolism, unspecified"
+E75,Disorders of sphingolipid metabolism and other lipid storage disorders
+E75.0,GM2 gangliosidosis
+E75.1,Other gangliosidosis
+E75.2,Other sphingolipidosis
+E75.3,"Sphingolipidosis, unspecified"
+E75.4,Neuronal ceroid lipofuscinosis
+E75.5,Other lipid storage disorders
+E75.6,"Lipid storage disorder, unspecified"
+E76,Disorders of glycosaminoglycan metabolism
+E76.0,"Mucopolysaccharidosis, type I"
+E76.1,"Mucopolysaccharidosis, type II"
+E76.2,Other mucopolysaccharidoses
+E76.3,"Mucopolysaccharidosis, unspecified"
+E76.8,Other disorders of glucosaminoglycan metabolism
+E76.9,"Disorder of glucosaminoglycan metabolism, unspecified"
+E77,Disorders of glycoprotein metabolism
+E77.0,Defects in post-translational modification of lysosomal enzymes
+E77.1,Defects in glycoprotein degradation
+E77.8,Other disorders of glycoprotein metabolism
+E77.9,"Disorder of glycoprotein metabolism, unspecified"
+E78,Disorders of lipoprotein metabolism and other lipidaemias
+E78.0,Pure hypercholesterolaemia
+E78.1,Pure hyperglyceridaemia
+E78.2,Mixed hyperlipidaemia
+E78.3,Hyperchylomicronaemia
+E78.4,Other hyperlipidaemia
+E78.5,"Hyperlipidaemia, unspecified"
+E78.6,Lipoprotein deficiency
+E78.8,Other disorders of lipoprotein metabolism
+E78.9,"Disorder of lipoprotein metabolism, unspecified"
+E79,Disorders of purine and pyrimidine metabolism
+E79.0,Hyperuricaemia without signs of inflammatory arthritis and tophaceous disease
+E79.1,Lesch-Nyhan syndrome
+E79.8,Other disorders of purine and pyrimidine metabolism
+E79.9,"Disorder of purine and pyrimidine metabolism, unspecified"
+E80,Disorders of porphyrin and bilirubin metabolism
+E80.0,Hereditary erythropoietic porphyria
+E80.1,Porphyria cutanea tarda
+E80.2,Other porphyria
+E80.3,Defects of catalase and peroxidase
+E80.4,Gilbert syndrome
+E80.5,Crigler-Najjar syndrome
+E80.6,Other disorders of bilirubin metabolism
+E80.7,"Disorder of bilirubin metabolism, unspecified"
+E83,Disorders of mineral metabolism
+E83.0,Disorders of copper metabolism
+E83.1,Disorders of iron metabolism
+E83.2,Disorders of zinc metabolism
+E83.3,Disorders of phosphorus metabolism and phosphatases
+E83.4,Disorders of magnesium metabolism
+E83.5,Disorders of calcium metabolism
+E83.8,Other disorders of mineral metabolism
+E83.9,"Disorder of mineral metabolism, unspecified"
+E84,Cystic fibrosis
+E84.0,Cystic fibrosis with pulmonary manifestations
+E84.1,Cystic fibrosis with intestinal manifestations
+E84.8,Cystic fibrosis with other manifestations
+E84.9,"Cystic fibrosis, unspecified"
+E85,Amyloidosis
+E85.0,Non-neuropathic heredofamilial amyloidosis
+E85.1,Neuropathic heredofamilial amyloidosis
+E85.2,"Heredofamilial amyloidosis, unspecified"
+E85.3,Secondary systemic amyloidosis
+E85.4,Organ-limited amyloidosis
+E85.8,Other amyloidosis
+E85.9,"Amyloidosis, unspecified"
+E86,"Volume depletion (dehydration, depletion of volume of plasma or extracellular fluid, hypovolaemia)"
+E87,"Other disorders of fluid, electrolyte and acid-base balance"
+E87.0,Hyperosmolality and hypernatraemia
+E87.1,Hypo-osmolality and hyponatraemia
+E87.2,Acidosis
+E87.3,Alkalosis
+E87.4,Mixed disorder of acid-base balance
+E87.5,Hyperkalaemia
+E87.6,Hypokalaemia
+E87.7,Fluid overload
+E87.8,"Other disorders of electrolyte and fluid balance, not elsewhere classified"
+E88,Other metabolic disorders
+E88.0,"Disorders of plasma-protein metabolism, not elsewhere classified"
+E88.1,"Lipodystrophy, not elsewhere classified"
+E88.2,"Lipomatosis, not elsewhere classified"
+E88.3,Tumour lysis syndrome
+E88.8,Other specified metabolic disorders
+E88.9,"Metabolic disorder, unspecified"
+E89,"Postprocedural endocrine and metabolic disorders, not elsewhere classified"
+E89.0,Postprocedural hypothyroidism
+E89.1,Postprocedural hypoinsulinaemia
+E89.2,Postprocedural hypoparathyroidism
+E89.3,Postprocedural hypopituitarism
+E89.4,Postprocedural ovarian failure
+E89.5,Postprocedural testicular hypofunction
+E89.6,Postprocedural adrenocortical(-medullary) hypofunction
+E89.9,Other postprocedural endocrine and metabolic disorders
+E89.9,Nutritional and metabolic disorders in diseases classified elsewhere

@@ -1,0 +1,624 @@
+icd10,icd_desc
+M00,Pyogenic arthritis
+M00.0,Staphylococcal arthritis and polyarthritis
+M00.1,Pneumococcal arthritis and polyarthritis
+M00.2,Other streptococcal arthritis and polyarthritis
+M00.8,Arthritis and polyarthritis due to other specified bacterial agents
+M00.9,"Pyogenic arthritis, unspecified"
+M01,Direct infections of joint in infectious and parasitic diseases classified elsewhere
+M01.0,Meningococcal arthritis
+M01.1,Tuberculous arthritis
+M01.2,Arthritis in Lyme disease
+M01.3,Arthritis in other bacterial diseases classified elsewhere
+M01.4,Rubella arthritis
+M01.5,Arthritis in other viral diseases classified elsewhere
+M01.6,Arthritis in mycoses
+M01.8,Arthritis in other infectious and parasitic diseases classified elsewhere
+M02,Reactive arthropathies
+M02.0,Arthropathy following intestinal bypass
+M02.1,Postdysenteric arthropathy
+M02.2,Postimmunization arthropathy
+M02.3,Reiter disease
+M02.8,Other reactive arthropathies
+M02.9,"Reactive arthropathy, unspecified"
+M03,Postinfective and reactive arthropathies in diseases classified elsewhere
+M03.0,Postmeningococcal arthritis
+M03.1,Postinfective arthropathy in syphilis
+M03.2,Other postinfectious arthropathies in diseases classified elsewhere
+M03.6,Reactive arthropathy in other diseases classified elsewhere
+M05,Seropositive rheumatoid arthritis
+M05.0,Felty syndrome
+M05.1,Rheumatoid lung disease
+M05.2,Rheumatoid vasculitis
+M05.3,Rheumatoid arthritis with involvement of other organs and systems
+M05.8,Other seropositive rheumatoid arthritis
+M05.9,"Seropositive rheumatoid arthritis, unspecified"
+M06,Other rheumatoid arthritis
+M06.0,Seronegative rheumatoid arthritis
+M06.1,Adult-onset Still disease
+M06.2,Rheumatoid bursitis
+M06.3,Rheumatoid nodule
+M06.4,Inflammatory polyarthropathy
+M06.8,Other specified rheumatoid arthritis
+M06.9,"Rheumatoid arthritis, unspecified"
+M07,Psoriatic and enteropathic arthropathies
+M07.0,Distal interphalangeal psoriatic arthropathy
+M07.1,Arthritis mutilans
+M07.2,Psoriatic spondylitis
+M07.3,Other psoriatic arthropathies
+M07.4,Arthropathy in Crohn disease [regional enteritis]
+M07.5,Arthropathy in ulcerative colitis
+M07.6,Other enteropathic arthropathies
+M08,Juvenile arthritis
+M08.0,Juvenile rheumatoid arthritis
+M08.1,Juvenile ankylosing spondylitis
+M08.2,Juvenile arthritis with systemic onset
+M08.3,Juvenile polyarthritis (seronegative)
+M08.4,Pauciarticular juvenile arthritis
+M08.8,Other juvenile arthritis
+M08.9,"Juvenile arthritis, unspecified"
+M09,Juvenile arthritis in diseases classified elsewhere
+M09.0,Juvenile arthritis in psoriasis
+M09.1,Juvenile arthritis in Crohn disease [regional enteritis]
+M09.2,Juvenile arthritis in ulcerative colitis
+M09.8,Juvenile arthritis in other diseases classified elsewhere
+M10,Gout
+M10.0,Idiopathic gout
+M10.1,Lead-induced gout
+M10.2,Drug-induced gout
+M10.3,Gout due to impairment of renal function
+M10.4,Other secondary gout
+M10.9,"Gout, unspecified"
+M11,Other crystal arthropathies
+M11.0,Hydroxyapatite deposition disease
+M11.1,Familial chondrocalcinosis
+M11.2,Other chondrocalcinosis
+M11.8,Other specified crystal arthropathies
+M11.9,"Crystal arthropathy, unspecified"
+M12,Other specific arthropathies
+M12.0,Chronic postrheumatic arthropathy [Jaccoud]
+M12.1,Kaschin-Beck disease
+M12.2,Villonodular synovitis (pigmented)
+M12.3,Palindromic rheumatism
+M12.4,Intermittent hydrarthrosis
+M12.5,Traumatic arthropathy
+M12.8,"Other specific arthropathies, not elsewhere classified"
+M13,Other arthritis
+M13.0,"Polyarthritis, unspecified"
+M13.1,"Monoarthritis, not elsewhere classified"
+M13.8,Other specified arthritis
+M13.9,"Arthritis, unspecified"
+M14,Arthropathies in other diseases classified elsewhere
+M14.0,Gouty arthropathy due to enzyme defects and other inherited disorders
+M14.1,Crystal arthropathy in other metabolic disorders
+M14.2,Diabetic arthropathy
+M14.3,Lipoid dermatoarthritis
+M14.4,Arthropathy in amyloidosis
+M14.5,"Arthropathies in other endocrine, nutritional and metabolic disorders"
+M14.6,Neuropathic arthropathy
+M14.8,Arthropathies in other specified diseases classified elsewhere
+M15,Polyarthrosis
+M15.0,Primary generalized (osteo)arthrosis
+M15.1,Heberden nodes (with arthropathy)
+M15.2,Bouchard nodes (with arthropathy)
+M15.3,Secondary multiple arthrosis
+M15.4,Erosive (osteo)arthrosis
+M15.8,Other polyarthrosis
+M15.9,"Polyarthrosis, unspecified"
+M16,Coxarthrosis [arthrosis of hip]
+M16.0,"Primary coxarthrosis, bilateral"
+M16.1,Other primary coxarthrosis
+M16.2,"Coxarthrosis resulting from dysplasia, bilateral"
+M16.3,Other dysplastic coxarthrosis
+M16.4,"Post-traumatic coxarthrosis, bilateral"
+M16.5,Other post-traumatic coxarthrosis
+M16.6,"Other secondary coxarthrosis, bilateral"
+M16.7,Other secondary coxarthrosis
+M16.9,"Coxarthrosis, unspecified"
+M17,Gonarthrosis [arthrosis of knee]
+M17.0,"Primary gonarthrosis, bilateral"
+M17.1,Other primary gonarthrosis
+M17.2,"Post-traumatic gonarthrosis, bilateral"
+M17.3,Other post-traumatic gonarthrosis
+M17.4,"Other secondary gonarthrosis, bilateral"
+M17.5,Other secondary gonarthrosis
+M17.9,"Gonarthrosis, unspecified"
+M18,Arthrosis of first carpometacarpal joint
+M18.0,"Primary arthrosis of first carpometacarpal joints, bilateral"
+M18.1,Other primary arthrosis of first carpometacarpal joint
+M18.2,"Post-traumatic arthrosis of first carpometacarpal joints, bilateral"
+M18.3,Other post-traumatic arthrosis of first carpometacarpal joint
+M18.4,"Other secondary arthrosis of first carpometacarpal joints, bilateral"
+M18.5,Other secondary arthrosis of first carpometacarpal joint
+M18.9,"Arthrosis of first carpometacarpal joint, unspecified"
+M19,Other arthrosis
+M19.0,Primary arthrosis of other joints
+M19.1,Post-traumatic arthrosis of other joints
+M19.2,Other secondary arthrosis
+M19.8,Other specified arthrosis
+M19.9,"Arthrosis, unspecified"
+M20,Acquired deformities of fingers and toes
+M20.0,Deformity of finger(s)
+M20.1,Hallux valgus (acquired)
+M20.2,Hallux rigidus
+M20.3,Other deformity of hallux (acquired)
+M20.4,Other hammer toe(s) (acquired)
+M20.5,Other deformities of toe(s) (acquired)
+M20.6,"Acquired deformity of toe(s), unspecified"
+M21,Other acquired deformities of limbs
+M21.0,"Valgus deformity, not elsewhere classified"
+M21.1,"Varus deformity, not elsewhere classified"
+M21.2,Flexion deformity
+M21.3,Wrist or foot drop (acquired)
+M21.4,Flat foot [pes planus] (acquired)
+M21.5,"Acquired clawhand, clubhand, clawfoot and clubfoot"
+M21.6,Other acquired deformities of ankle and foot
+M21.7,Unequal limb length (acquired)
+M21.8,Other specified acquired deformities of limbs
+M21.9,"Acquired deformity of limb, unspecified"
+M22,Disorders of patella
+M22.0,Recurrent dislocation of patella
+M22.1,Recurrent subluxation of patella
+M22.2,Patellofemoral disorders
+M22.3,Other derangements of patella
+M22.4,Chondromalacia patellae
+M22.8,Other disorders of patella
+M22.9,"Disorder of patella, unspecified"
+M23,Internal derangement of knee
+M23.0,Cystic meniscus
+M23.1,Discoid meniscus (congenital)
+M23.2,Derangement of meniscus due to old tear or injury
+M23.3,Other meniscus derangements
+M23.4,Loose body in knee
+M23.5,Chronic instability of knee
+M23.6,Other spontaneous disruption of ligament(s) of knee
+M23.8,Other internal derangements of knee
+M23.9,"Internal derangement of knee, unspecified"
+M24,Other specific joint derangements
+M24.0,Loose body in joint
+M24.1,Other articular cartilage disorders
+M24.2,Disorder of ligament
+M24.3,"Pathological dislocation and subluxation of joint, not elsewhere classified"
+M24.4,Recurrent dislocation and subluxation of joint
+M24.5,Contracture of joint
+M24.6,Ankylosis of joint
+M24.7,Protrusio acetabuli
+M24.8,"Other specific joint derangements, not elsewhere classified"
+M24.9,"Joint derangement, unspecified"
+M25,"Other joint disorders, not elsewhere classified"
+M25.0,Haemarthrosis
+M25.1,Fistula of joint
+M25.2,Flail joint
+M25.3,Other instability of joint
+M25.4,Effusion of joint
+M25.5,Pain in joint
+M25.6,"Stiffness of joint, not elsewhere classified"
+M25.7,Osteophyte
+M25.8,Other specified joint disorders
+M25.9,"Joint disorder, unspecified"
+M30,Polyarteritis nodosa and related conditions
+M30.0,Polyarteritis nodosa
+M30.1,Polyarteritis with lung involvement [Churg-Strauss]
+M30.2,Juvenile polyarteritis
+M30.3,Mucocutaneous lymph node syndrome [Kawasaki]
+M30.8,Other conditions related to polyarteritis nodosa
+M31,Other necrotizing vasculopathies
+M31.0,Hypersensitivity angiitis
+M31.1,Thrombotic microangiopathy
+M31.2,Lethal midline granuloma
+M31.3,Wegener granulomatosis
+M31.4,Aortic arch syndrome [Takayasu]
+M31.5,Giant cell arteritis with polymyalgia rheumatica
+M31.6,Other giant cell arteritis
+M31.7,Microscopic polyangiitis
+M31.8,Other specified necrotizing vasculopathies
+M31.9,"Necrotizing vasculopathy, unspecified"
+M32,Systemic lupus erythematosus
+M32.0,Drug-induced systemic lupus erythematosus
+M32.1,Systemic lupus erythematosus with organ or system involvement
+M32.8,Other forms of systemic lupus erythematosus
+M32.9,"Systemic lupus erythematosus, unspecified"
+M33,Dermatopolymyositis
+M33.0,Juvenile dermatomyositis
+M33.1,Other dermatomyositis
+M33.2,Polymyositis
+M33.9,"Dermatopolymyositis, unspecified"
+M34,Systemic sclerosis
+M34.0,Progressive systemic sclerosis
+M34.1,CR(E)ST syndrome
+M34.2,Systemic sclerosis induced by drugs and chemicals
+M34.8,Other forms of systemic sclerosis
+M34.9,"Systemic sclerosis, unspecified"
+M35,Other systemic involvement of connective tissue
+M35.0,Sicca syndrome [Sjögren]
+M35.1,Other overlap syndromes
+M35.2,Behçet disease
+M35.3,Polymyalgia rheumatica
+M35.4,Diffuse (eosinophilic) fasciitis
+M35.5,Multifocal fibrosclerosis
+M35.6,Relapsing panniculitis [Weber-Christian]
+M35.7,Hypermobility syndrome
+M35.8,Other specified systemic involvement of connective tissue
+M35.9,"Systemic involvement of connective tissue, unspecified"
+M36,Systemic disorders of connective tissue in diseases classified elsewhere
+M36.0,Dermato(poly)myositis in neoplastic disease
+M36.1,Arthropathy in neoplastic disease
+M36.2,Haemophilic arthropathy
+M36.3,Arthropathy in other blood disorders
+M36.4,Arthropathy in hypersensitivity reactions classified elsewhere
+M36.8,Systemic disorders of connective tissue in other diseases classified elsewhere
+M40,Kyphosis and lordosis
+M40.0,Postural kyphosis
+M40.1,Other secondary kyphosis
+M40.2,Other and unspecified kyphosis
+M40.3,Flatback syndrome
+M40.4,Other lordosis
+M40.5,"Lordosis, unspecified"
+M41,Scoliosis
+M41.0,Infantile idiopathic scoliosis
+M41.1,Juvenile idiopathic scoliosis
+M41.2,Other idiopathic scoliosis
+M41.3,Thoracogenic scoliosis
+M41.4,Neuromuscular scoliosis
+M41.5,Other secondary scoliosis
+M41.8,Other forms of scoliosis
+M41.9,"Scoliosis, unspecified"
+M42,Spinal osteochondrosis
+M42.0,Juvenile osteochondrosis of spine
+M42.1,Adult osteochondrosis of spine
+M42.9,"Spinal osteochondrosis, unspecified"
+M43,Other deforming dorsopathies
+M43.0,Spondylolysis
+M43.1,Spondylolisthesis
+M43.2,Other fusion of spine
+M43.3,Recurrent atlantoaxial subluxation with myelopathy
+M43.4,Other recurrent atlantoaxial subluxation
+M43.5,Other recurrent vertebral subluxation
+M43.6,Torticollis
+M43.8,Other specified deforming dorsopathies
+M43.9,"Deforming dorsopathy, unspecified"
+M45,Ankylosing spondylitis
+M46,Other inflammatory spondylopathies
+M46.0,Spinal enthesopathy
+M46.1,"Sacroiliitis, not elsewhere classified"
+M46.2,Osteomyelitis of vertebra
+M46.3,Infection of intervertebral disc (pyogenic)
+M46.4,"Discitis, unspecified"
+M46.5,Other infective spondylopathies
+M46.8,Other specified inflammatory spondylopathies
+M46.9,"Inflammatory spondylopathy, unspecified"
+M47,Spondylosis
+M47.0,Anterior spinal and vertebral artery compression syndromes
+M47.1,Other spondylosis with myelopathy
+M47.2,Other spondylosis with radiculopathy
+M47.8,Other spondylosis
+M47.9,"Spondylosis, unspecified"
+M48,Other spondylopathies
+M48.0,Spinal stenosis
+M48.1,Ankylosing hyperostosis [Forestier]
+M48.2,Kissing spine
+M48.3,Traumatic spondylopathy
+M48.4,Fatigue fracture of vertebra
+M48.5,"Collapsed vertebra, not elsewhere classified"
+M48.8,Other specified spondylopathies
+M48.9,"Spondylopathy, unspecified"
+M49,Spondylopathies in diseases classified elsewhere
+M49.0,Tuberculosis of spine
+M49.1,Brucella spondylitis
+M49.2,Enterobacterial spondylitis
+M49.3,Spondylopathy in other infectious and parasitic diseases classified elsewhere
+M49.4,Neuropathic spondylopathy
+M49.5,Collapsed vertebra in diseases classified elsewhere
+M49.8,Spondylopathy in other diseases classified elsewhere
+M50,Cervical disc disorders
+M50.0,Cervical disc disorder with myelopathy
+M50.1,Cervical disc disorder with radiculopathy
+M50.2,Other cervical disc displacement
+M50.3,Other cervical disc degeneration
+M50.8,Other cervical disc disorders
+M50.9,"Cervical disc disorder, unspecified"
+M51,Other intervertebral disc disorders
+M51.0,Lumbar and other intervertebral disc disorders with myelopathy 
+M51.1,Lumbar and other intervertebral disc disorders with radiculopathy 
+M51.2,Other specified intervertebral disc displacement
+M51.3,Other specified intervertebral disc degeneration
+M51.4,Schmorl nodes
+M51.8,Other specified intervertebral disc disorders
+M51.9,"Intervertebral disc disorder, unspecified"
+M53,"Other dorsopathies, not elsewhere classified"
+M53.0,Cervicocranial syndrome
+M53.1,Cervicobrachial syndrome
+M53.2,Spinal instabilities
+M53.3,"Sacrococcygeal disorders, not elsewhere classified"
+M53.8,Other specified dorsopathies
+M53.9,"Dorsopathy, unspecified"
+M54,Dorsalgia
+M54.0,Panniculitis affecting regions of neck and back
+M54.1,Radiculopathy
+M54.2,Cervicalgia
+M54.3,Sciatica
+M54.4,Lumbago with sciatica
+M54.5,Low back pain
+M54.6,Pain in thoracic spine
+M54.8,Other dorsalgia
+M54.9,"Dorsalgia, unspecified"
+M60,Myositis
+M60.0,Infective myositis
+M60.1,Interstitial myositis
+M60.2,"Foreign body granuloma of soft tissue, not elsewhere classified"
+M60.8,Other myositis
+M60.9,"Myositis, unspecified"
+M61,Calcification and ossification of muscle
+M61.0,Myositis ossificans traumatica
+M61.1,Myositis ossificans progressiva
+M61.2,Paralytic calcification and ossification of muscle
+M61.3,Calcification and ossification of muscles associated with burns
+M61.4,Other calcification of muscle
+M61.5,Other ossification of muscle
+M61.9,"Calcification and ossification of muscle, unspecified"
+M62,Other disorders of muscle
+M62.0,Diastasis of muscle
+M62.1,Other rupture of muscle (nontraumatic)
+M62.2,Ischaemic infarction of muscle
+M62.3,Immobility syndrome (paraplegic)
+M62.4,Contracture of muscle
+M62.5,"Muscle wasting and atrophy, not elsewhere classified"
+M62.6,Muscle strain
+M62.8,Other specified disorders of muscle
+M62.9,"Disorder of muscle, unspecified"
+M63,Disorders of muscle in diseases classified elsewhere
+M63.0,Myositis in bacterial diseases classified elsewhere
+M63.1,Myositis in protozoal and parasitic infections classified elsewhere
+M63.2,Myositis in other infectious diseases classified elsewhere
+M63.3,Myositis in sarcoidosis
+M63.8,Other disorders of muscle in diseases classified elsewhere
+M65,Synovitis and tenosynovitis
+M65.0,Abscess of tendon sheath
+M65.1,Other infective (teno)synovitis
+M65.2,Calcific tendinitis
+M65.3,Trigger finger
+M65.4,Radial styloid tenosynovitis [de Quervain]
+M65.8,Other synovitis and tenosynovitis
+M65.9,"Synovitis and tenosynovitis, unspecified"
+M66,Spontaneous rupture of synovium and tendon
+M66.0,Rupture of popliteal cyst
+M66.1,Rupture of synovium
+M66.2,Spontaneous rupture of extensor tendons
+M66.3,Spontaneous rupture of flexor tendons
+M66.4,Spontaneous rupture of other tendons
+M66.5,Spontaneous rupture of unspecified tendon
+M67,Other disorders of synovium and tendon
+M67.0,Short Achilles tendon (acquired)
+M67.1,Other contracture of tendon (sheath)
+M67.2,"Synovial hypertrophy, not elsewhere classified"
+M67.3,Transient synovitis
+M67.4,Ganglion
+M67.8,Other specified disorders of synovium and tendon
+M67.9,"Disorder of synovium and tendon, unspecified"
+M68,Disorders of synovium and tendon in diseases classified elsewhere
+M68.0,Synovitis and tenosynovitis in bacterial diseases classified elsewhere
+M68.8,Other disorders of synovium and tendon in diseases classified elsewhere
+M70,"Soft tissue disorders related to use, overuse and pressure"
+M70.0,Chronic crepitant synovitis of hand and wrist
+M70.1,Bursitis of hand
+M70.2,Olecranon bursitis
+M70.3,Other bursitis of elbow
+M70.4,Prepatellar bursitis
+M70.5,Other bursitis of knee
+M70.6,Trochanteric bursitis
+M70.7,Other bursitis of hip
+M70.8,"Other soft tissue disorders related to use, overuse and pressure"
+M70.9,"Unspecified soft tissue disorder related to use, overuse and pressure"
+M71,Other bursopathies
+M71.0,Abscess of bursa
+M71.1,Other infective bursitis
+M71.2,Synovial cyst of popliteal space [Baker]
+M71.3,Other bursal cyst
+M71.4,Calcium deposit in bursa
+M71.5,"Other bursitis, not elsewhere classified"
+M71.8,Other specified bursopathies
+M71.9,"Bursopathy, unspecified"
+M72,Fibroblastic disorders
+M72.0,Palmar fascial fibromatosis [Dupuytren]
+M72.1,Knuckle pads
+M72.2,Plantar fascial fibromatosis
+M72.4,Pseudosarcomatous fibromatosis
+M72.6,Necrotizing fasciitis
+M72.8,Other fibroblastic disorders
+M72.9,"Fibroblastic disorder, unspecified"
+M73,Soft tissue disorders in diseases classified elsewhere
+M73.0,Gonococcal bursitis
+M73.1,Syphilitic bursitis
+M73.8,Other soft tissue disorders in diseases classified elsewhere
+M75,Shoulder lesions
+M75.0,Adhesive capsulitis of shoulder
+M75.1,Rotator cuff syndrome
+M75.2,Bicipital tendinitis
+M75.3,Calcific tendinitis of shoulder
+M75.4,Impingement syndrome of shoulder
+M75.5,Bursitis of shoulder
+M75.8,Other shoulder lesions
+M75.9,"Shoulder lesion, unspecified"
+M76,"Enthesopathies of lower limb, excluding foot"
+M76.0,Gluteal tendinitis
+M76.1,Psoas tendinitis
+M76.2,Iliac crest spur
+M76.3,Iliotibial band syndrome
+M76.4,Tibial collateral bursitis [Pellegrini-Stieda]
+M76.5,Patellar tendinitis
+M76.7,Achilles tendinitis
+M76.7,Peroneal tendinitis
+M76.8,"Other enthesopathies of lower limb, excluding foot"
+M76.9,"Enthesopathy of lower limb, unspecified"
+M77,Other enthesopathies
+M77.0,Medial epicondylitis
+M77.1,Lateral epicondylitis
+M77.2,Periarthritis of wrist
+M77.3,Calcaneal spur
+M77.4,Metatarsalgia
+M77.5,Other enthesopathy of foot
+M77.8,"Other enthesopathies, not elsewhere classified"
+M77.9,"Enthesopathy, unspecified"
+M79,"Other soft tissue disorders, not elsewhere classified"
+M79.0,"Rheumatism, unspecified"
+M79.1,Myalgia
+M79.2,"Neuralgia and neuritis, unspecified"
+M79.3,"Panniculitis, unspecified"
+M79.4,Hypertrophy of (infrapatellar) fat pad
+M79.5,Residual foreign body in soft tissue
+M59.6,Pain in limb
+M79.7,Fibromyalgia
+M79.8,Other specified soft tissue disorders
+M79.9,"Soft tissue disorder, unspecified"
+M80,Osteoporosis with pathological fracture
+M80.0,Postmenopausal osteoporosis with pathological fracture
+M80.1,Postoophorectomy osteoporosis with pathological fracture
+M80.2,Osteoporosis of disuse with pathological fracture
+M80.3,Postsurgical malabsorption osteoporosis with pathological fracture
+M80.4,Drug-induced osteoporosis with pathological fracture
+M80.5,Idiopathic osteoporosis with pathological fracture
+M80.8,Other osteoporosis with pathological fracture
+M80.9,Unspecified osteoporosis with pathological fracture
+M81,Osteoporosis without pathological fracture
+M81.0,Postmenopausal osteoporosis
+M81.1,Postoophorectomy osteoporosis
+M81.2,Osteoporosis of disuse
+M81.3,Postsurgical malabsorption osteoporosis
+M81.4,Drug-induced osteoporosis
+M81.5,Idiopathic osteoporosis
+M81.6,Localized osteoporosis [Lequesne]
+M81.8,Other osteoporosis
+M81.9,"Osteoporosis, unspecified"
+M82,Osteoporosis in diseases classified elsewhere
+M82.0,Osteoporosis in multiple myelomatosis
+M82.1,Osteoporosis in endocrine disorders
+M82.8,Osteoporosis in other diseases classified elsewhere
+M83,Adult osteomalacia
+M83.0,Puerperal osteomalacia
+M83.1,Senile osteomalacia
+M83.2,Adult osteomalacia due to malabsorption
+M83.3,Adult osteomalacia due to malnutrition
+M83.4,Aluminium bone disease
+M83.5,Other drug-induced osteomalacia in adults
+M83.8,Other adult osteomalacia
+M83.9,"Adult osteomalacia, unspecified"
+M84,Disorders of continuity of bone
+M84.0,Malunion of fracture
+M84.1,Nonunion of fracture [pseudarthrosis]
+M84.2,Delayed union of fracture
+M84.3,"Stress fracture, not elsewhere classified"
+M84.4,"Pathological fracture, not elsewhere classified"
+M84.8,Other disorders of continuity of bone
+M84.9,"Disorder of continuity of bone, unspecified"
+M85,Other disorders of bone density and structure
+M85.0,Fibrous dysplasia (monostotic)
+M85.1,Skeletal fluorosis
+M85.2,Hyperostosis of skull
+M85.3,Osteitis condensans
+M85.4,Solitary bone cyst
+M85.5,Aneurysmal bone cyst
+M85.6,Other cyst of bone
+M85.8,Other specified disorders of bone density and structure
+M85.9,"Disorder of bone density and structure, unspecified"
+M86,Osteomyelitis
+M86.0,Acute haematogenous osteomyelitis
+M86.1,Other acute osteomyelitis
+M86.2,Subacute osteomyelitis
+M86.3,Chronic multifocal osteomyelitis
+M86.4,Chronic osteomyelitis with draining sinus
+M86.5,Other chronic haematogenous osteomyelitis
+M86.6,Other chronic osteomyelitis
+M86.8,Other osteomyelitis
+M86.9,"Osteomyelitis, unspecified"
+M87,Osteonecrosis
+M87.0,Idiopathic aseptic necrosis of bone
+M87.1,Osteonecrosis due to drugs
+M87.2,Osteonecrosis due to previous trauma
+M87.3,Other secondary osteonecrosis
+M87.8,Other osteonecrosis
+M87.9,"Osteonecrosis, unspecified"
+M88,Paget disease of bone [osteitis deformans]
+M88.0,Paget disease of skull
+M88.8,Paget disease of other bones
+M88.9,"Paget disease of bone, unspecified"
+M89,Other disorders of bone
+M89.0,Algoneurodystrophy
+M89.1,Epiphyseal arrest
+M89.2,Other disorders of bone development and growth
+M89.3,Hypertrophy of bone
+M89.4,Other hypertrophic osteoarthropathy
+M89.5,Osteolysis
+M89.6,Osteopathy after poliomyelitis
+M89.8,Other specified disorders of bone
+M89.9,"Disorder of bone, unspecified"
+M90,Osteopathies in diseases classified elsewhere
+M90.0,Tuberculosis of bone
+M90.1,Periostitis in other infectious diseases classified elsewhere
+M90.2,Osteopathy in other infectious diseases classified elsewhere
+M90.3,Osteonecrosis in caisson disease
+M90.4,Osteonecrosis due to haemoglobinopathy
+M90.5,Osteonecrosis in other diseases classified elsewhere
+M90.6,Osteitis deformans in neoplastic disease
+M90.7,Fracture of bone in neoplastic disease
+M90.8,Osteopathy in other diseases classified elsewhere
+M91,Juvenile osteochondrosis of hip and pelvis
+M91.0,Juvenile osteochondrosis of pelvis
+M91.1,Juvenile osteochondrosis of head of femur [Legg-Calvé-Perthes]
+M91.2,Coxa plana
+M91.3,Pseudocoxalgia
+M91.8,Other juvenile osteochondrosis of hip and pelvis
+M91.9,"Juvenile osteochondrosis of hip and pelvis, unspecified"
+M92,Other juvenile osteochondrosis
+M92.0,Juvenile osteochondrosis of humerus
+M92.1,Juvenile osteochondrosis of radius and ulna
+M92.2,Juvenile osteochondrosis of hand
+M92.3,Other juvenile osteochondrosis of upper limb
+M92.4,Juvenile osteochondrosis of patella
+M92.5,Juvenile osteochondrosis of tibia and fibula
+M92.6,Juvenile osteochondrosis of tarsus
+M92.7,Juvenile osteochondrosis of metatarsus
+M92.8,Other specified juvenile osteochondrosis
+M92.9,"Juvenile osteochondrosis, unspecified"
+M93,Other osteochondropathies
+M93.0,Slipped upper femoral epiphysis (nontraumatic)
+M93.1,Kienböck disease of adults
+M93.2,Osteochondritis dissecans
+M93.8,Other specified osteochondropathies
+M93.9,"Osteochondropathy, unspecified"
+M94,Other disorders of cartilage
+M94.0,Chondrocostal junction syndrome [Tietze]
+M94.1,Relapsing polychondritis
+M94.2,Chondromalacia
+M94.3,Chondrolysis
+M94.8,Other specified disorders of cartilage
+M94.9,"Disorder of cartilage, unspecified"
+M95,Other acquired deformities of musculoskeletal system and connective tissue
+M95.0,Acquired deformity of nose
+M95.1,Cauliflower ear
+M95.2,Other acquired deformity of head
+M95.3,Acquired deformity of neck
+M95.4,Acquired deformity of chest and rib
+M95.5,Acquired deformity of pelvis
+M95.8,Other specified acquired deformities of musculoskeletal system
+M95.9,"Acquired deformity of musculoskeletal system, unspecified"
+M96,"Postprocedural musculoskeletal disorders, not elsewhere classified"
+M96.0,Pseudarthrosis after fusion or arthrodesis
+M96.1,"Postlaminectomy syndrome, not elsewhere classified"
+M96.2,Postradiation kyphosis
+M96.3,Postlaminectomy kyphosis
+M96.4,Postsurgical lordosis
+M96.5,Postradiation scoliosis
+M96.6,"Fracture of bone following insertion of orthopaedic implant, joint prosthesis, or bone plate"
+M96.8,Other postprocedural musculoskeletal disorders
+M96.9,"Postprocedural musculoskeletal disorder, unspecified"
+M99,"Biomechanical lesions, not elsewhere classified"
+M99.0,Segmental and somatic dysfunction
+M99.1,Subluxation complex (vertebral)
+M99.2,Subluxation stenosis of neural canal
+M99.3,Osseous stenosis of neural canal
+M99.4,Connective tissue stenosis of neural canal
+M99.5,Intervertebral disc stenosis of neural canal
+M99.6,Osseous and subluxation stenosis of intervertebral foramina
+M99.7,Connective tissue and disc stenosis of intervertebral foramina
+M99.8,Other biomechanical lesions
+M99.9,"Biomechanical lesion, unspecified"

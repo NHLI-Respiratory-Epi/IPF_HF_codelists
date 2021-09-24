@@ -1,0 +1,401 @@
+icd10,icd_desc
+L00,Staphylococcal scalded skin syndrome
+L01,Impetigo
+L01.0,Impetigo [any organism] [any site]
+L01.1,Impetiginization of other dermatoses
+L02,"Cutaneous abscess, furuncle and carbuncle"
+L02.0,"Cutaneous abscess, furuncle and carbuncle of face"
+L02.1,"Cutaneous abscess, furuncle and carbuncle of neck"
+L02.2,"Cutaneous abscess, furuncle and carbuncle of trunk"
+L02.3,"Cutaneous abscess, furuncle and carbuncle of buttock"
+L02.4,"Cutaneous abscess, furuncle and carbuncle of limb"
+L02.8,"Cutaneous abscess, furuncle and carbuncle of other sites"
+L02.9,"Cutaneous abscess, furuncle and carbuncle, unspecified"
+L03,Cellulitis
+L03.0,Cellulitis of finger and toe
+L03.1,Cellulitis of other parts of limb
+L03.2,Cellulitis of face
+L03.3,Cellulitis of trunk
+L03.8,Cellulitis of other sites
+L03.9,"Cellulitis, unspecified"
+L04,Acute lymphadenitis
+L04.0,"Acute lymphadenitis of face, head and neck"
+L04.1,Acute lymphadenitis of trunk
+L04.2,Acute lymphadenitis of upper limb
+L04.3,Acute lymphadenitis of lower limb
+L04.8,Acute lymphadenitis of other sites
+L04.9,"Acute lymphadenitis, unspecified"
+L05,Pilonidal cyst
+L05.0,Pilonidal cyst with abscess
+L05.9,Pilonidal cyst without abscess
+L08,Other local infections of skin and subcutaneous tissue
+L08.0,Pyoderma
+L08.1,Erythrasma
+L08.8,Other specified local infections of skin and subcutaneous tissue
+L08.9,"Local infection of skin and subcutaneous tissue, unspecified"
+L10,Pemphigus
+L10.0,Pemphigus vulgaris
+L10.1,Pemphigus vegetans
+L10.2,Pemphigus foliaceus
+L10.3,Brazilian pemphigus [fogo selvagem]
+L10.4,Pemphigus erythematosus
+L10.5,Drug-induced pemphigus
+L10.8,Other pemphigus
+L10.9,"Pemphigus, unspecified"
+L11,Other acantholytic disorders
+L11.0,Acquired keratosis follicularis
+L11.1,Transient acantholytic dermatosis [Grover]
+L11.8,Other specified acantholytic disorders
+L11.9,"Acantholytic disorder, unspecified"
+L12,Pemphigoid
+L12.0,Bullous pemphigoid
+L12.1,Cicatricial pemphigoid
+L12.2,Chronic bullous disease of childhood
+L12.3,Acquired epidermolysis bullosa
+L12.8,Other pemphigoid
+L12.9,"Pemphigoid, unspecified"
+L13,Other bullous disorders
+L13.0,Dermatitis herpetiformis
+L13.1,Subcorneal pustular dermatitis
+L13.8,Other specified bullous disorders
+L13.9,"Bullous disorder, unspecified"
+L14,Bullous disorders in diseases classified elsewhere
+L20,Atopic dermatitis
+L20.0,Besnier prurigo
+L20.8,Other atopic dermatitis
+L20.9,"Atopic dermatitis, unspecified"
+L21,Seborrhoeic dermatitis
+L21.0,Seborrhoea capitis
+L21.1,Seborrhoeic infantile dermatitis
+L21.8,Other seborrhoeic dermatitis
+L21.9,"Seborrhoeic dermatitis, unspecified"
+L22,Diaper [napkin] dermatitis
+L23,Allergic contact dermatitis
+L23.0,Allergic contact dermatitis due to metals
+L23.1,Allergic contact dermatitis due to adhesives
+L23.2,Allergic contact dermatitis due to cosmetics
+L23.3,Allergic contact dermatitis due to drugs in contact with skin
+L23.4,Allergic contact dermatitis due to dyes
+L23.5,Allergic contact dermatitis due to other chemical products
+L23.6,Allergic contact dermatitis due to food in contact with skin
+L23.7,"Allergic contact dermatitis due to plants, except food"
+L23.8,Allergic contact dermatitis due to other agents
+L23.9,"Allergic contact dermatitis, unspecified cause"
+L24,Irritant contact dermatitis
+L24.0,Irritant contact dermatitis due to detergents
+L24.1,Irritant contact dermatitis due to oils and greases
+L24.2,Irritant contact dermatitis due to solvents
+L24.3,Irritant contact dermatitis due to cosmetics
+L24.4,Irritant contact dermatitis due to drugs in contact with skin
+L24.5,Irritant contact dermatitis due to other chemical products
+L24.6,Irritant contact dermatitis due to food in contact with skin
+L24.7,"Irritant contact dermatitis due to plants, except food"
+L24.8,Irritant contact dermatitis due to other agents
+L24.9,"Irritant contact dermatitis, unspecified cause"
+L25,Unspecified contact dermatitis
+L25.0,Unspecified contact dermatitis due to cosmetics
+L25.1,Unspecified contact dermatitis due to drugs in contact with skin
+L25.2,Unspecified contact dermatitis due to dyes
+L25.3,Unspecified contact dermatitis due to other chemical products
+L25.4,Unspecified contact dermatitis due to food in contact with skin
+L25.5,"Unspecified contact dermatitis due to plants, except food"
+L25.8,Unspecified contact dermatitis due to other agents
+L25.9,"Unspecified contact dermatitis, unspecified cause"
+L26,Exfoliative dermatitis
+L27,Dermatitis due to substances taken internally
+L27.0,Generalized skin eruption due to drugs and medicaments
+L27.1,Localized skin eruption due to drugs and medicaments
+L27.2,Dermatitis due to ingested food
+L27.8,Dermatitis due to other substances taken internally
+L27.9,Dermatitis due to unspecified substance taken internally
+L28,Lichen simplex chronicus and prurigo
+L28.0,Lichen simplex chronicus
+L28.1,Prurigo nodularis
+L28.2,Other prurigo
+L29,Pruritus
+L29.0,Pruritus ani
+L29.1,Pruritus scroti
+L29.2,Pruritus vulvae
+L29.3,"Anogenital pruritus, unspecified"
+L29.8,Other pruritus
+L29.9,"Pruritus, unspecified"
+L30,Other dermatitis
+L30.0,Nummular dermatitis
+L30.1,Dyshidrosis [pompholyx]
+L30.2,Cutaneous autosensitization
+L30.3,Infective dermatitis
+L30.4,Erythema intertrigo
+L30.5,Pityriasis alba
+L30.8,Other specified dermatitis
+L30.9,"Dermatitis, unspecified"
+L40,Psoriasis
+L40.0,Psoriasis vulgaris
+L40.1,Generalized pustular psoriasis
+L40.2,Acrodermatitis continua
+L40.3,Pustulosis palmaris et plantaris
+L40.4,Guttate psoriasis
+L40.5,Arthropathic psoriasis
+L40.8,Other psoriasis
+L40.9,"Psoriasis, unspecified"
+L41,Parapsoriasis
+L41.0,Pityriasis lichenoides et varioliformis acuta
+L41.1,Pityriasis lichenoides chronica
+L41.3,Small plaque parapsoriasis
+L41.4,Large plaque parapsoriasis
+L41.5,Retiform parapsoriasis
+L41.8,Other parapsoriasis
+L41.9,"Parapsoriasis, unspecified"
+L42,Pityriasis rosea
+L43,Lichen planus
+L43.0,Hypertrophic lichen planus
+L43.1,Bullous lichen planus
+L43.2,Lichenoid drug reaction
+L43.3,Subacute (active) lichen planus
+L43.8,Other lichen planus
+L43.9,"Lichen planus, unspecified"
+L44,Other papulosquamous disorders
+L44.0,Pityriasis rubra pilaris
+L44.1,Lichen nitidus
+L44.2,Lichen striatus
+L44.3,Lichen ruber moniliformis
+L44.4,Infantile papular acrodermatitis [Giannotti-Crosti]
+L44.8,Other specified papulosquamous disorders
+L44.9,"Papulosquamous disorder, unspecified"
+L45,Papulosquamous disorders in diseases classified elsewhere
+L50,Urticaria
+L50.0,Allergic urticaria
+L50.1,Idiopathic urticaria
+L50.2,Urticaria due to cold and heat
+L50.3,Dermatographic urticaria
+L50.4,Vibratory urticaria
+L50.5,Cholinergic urticaria
+L50.6,Contact urticaria
+L50.8,Other urticaria
+L50.9,"Urticaria, unspecified"
+L51,Erythema multiforme
+L51.0,Nonbullous erythema multiforme
+L51.1,Bullous erythema multiforme
+L51.2,Toxic epidermal necrolysis [Lyell]
+L51.8,Other erythema multiforme
+L51.9,"Erythema multiforme, unspecified"
+L52,Erythema nodosum
+L53,Other erythematous conditions
+L53.0,Toxic erythema
+L53.1,Erythema annulare centrifugum
+L53.2,Erythema marginatum
+L53.3,Other chronic figurate erythema
+L53.8,Other specified erythematous conditions
+L53.9,"Erythematous condition, unspecified"
+L54,Erythema in diseases classified elsewhere
+L54.0,Erythema marginatum in acute rheumatic fever
+L54.8,Erythema in other diseases classified elsewhere
+L55,Sunburn
+L55.0,Sunburn of first degree
+L55.1,Sunburn of second degree
+L55.2,Sunburn of third degree
+L55.8,Other sunburn
+L55.9,"Sunburn, unspecified"
+L56,Other acute skin changes due to ultraviolet radiation
+L56.0,Drug phototoxic response
+L56.1,Drug photoallergic response
+L56.2,Photocontact dermatitis [berloque dermatitis]
+L56.3,Solar urticaria
+L56.4,Polymorphous light eruption
+L56.8,Other specified acute skin changes due to ultraviolet radiation
+L56.9,"Acute skin change due to ultraviolet radiation, unspecified"
+L57,Skin changes due to chronic exposure to nonionizing radiation
+L57.0,Actinic keratosis
+L57.1,Actinic reticuloid
+L57.2,Cutis rhomboidalis nuchae
+L57.3,Poikiloderma of Civatte
+L57.4,Cutis laxa senilis
+L57.5,Actinic granuloma
+L57.8,Other skin changes due to chronic exposure to nonionizing radiation
+L57.9,"Skin changes due to chronic exposure to nonionizing radiation, unspecified"
+L58,Radiodermatitis
+L58.0,Acute radiodermatitis
+L58.1,Chronic radiodermatitis
+L58.9,"Radiodermatitis, unspecified"
+L59,Other disorders of skin and subcutaneous tissue related to radiation
+L59.0,Erythema ab igne [dermatitis ab igne]
+L59.8,Other specified disorders of skin and subcutaneous tissue related to radiation
+L59.9,"Disorder of skin and subcutaneous tissue related to radiation, unspecified"
+L60,Nail disorders
+L60.0,Ingrowing nail
+L60.1,Onycholysis
+L60.2,Onychogryphosis
+L60.3,Nail dystrophy
+L60.4,Beau lines
+L60.5,Yellow nail syndrome
+L60.8,Other nail disorders
+L60.9,"Nail disorder, unspecified"
+L62,Nail disorders in diseases classified elsewhere
+L62.0,Clubbed nail pachydermoperiostosis
+L62.8,Nail disorders in other diseases classified elsewhere
+L63,Alopecia areata
+L63.0,Alopecia (capitis) totalis
+L63.1,Alopecia universalis
+L63.2,Ophiasis
+L63.8,Other alopecia areata
+L63.9,"Alopecia areata, unspecified"
+L64,Androgenic alopecia
+L64.0,Drug-induced androgenic alopecia
+L64.8,Other androgenic alopecia
+L64.9,"Androgenic alopecia, unspecified"
+L65,Other nonscarring hair loss
+L65.0,Telogen effluvium
+L65.1,Anagen effluvium
+L65.2,Alopecia mucinosa
+L65.8,Other specified nonscarring hair loss
+L65.9,"Nonscarring hair loss, unspecified"
+L66,Cicatricial alopecia [scarring hair loss]
+L66.0,Pseudopelade
+L66.1,Lichen planopilaris
+L66.2,Folliculitis decalvans
+L66.3,Perifolliculitis capitis abscedens
+L66.4,Folliculitis ulerythematosa reticulata
+L66.8,Other cicatricial alopecia
+L66.9,"Cicatricial alopecia, unspecified"
+L67,Hair colour and hair shaft abnormalities
+L67.0,Trichorrhexis nodosa
+L67.1,Variations in hair colour
+L67.8,Other hair colour and hair shaft abnormalities
+L67.9,"Hair colour and hair shaft abnormality, unspecified"
+L68,Hypertrichosis
+L68.0,Hirsutism
+L68.1,Acquired hypertrichosis lanuginosa
+L68.2,Localized hypertrichosis
+L68.3,Polytrichia
+L68.8,Other hypertrichosis
+L68.9,"Hypertrichosis, unspecified"
+L70,Acne
+L70.0,Acne vulgaris
+L70.1,Acne conglobata
+L70.2,Acne varioliformis
+L70.3,Acne tropica
+L70.4,Infantile acne
+L70.5,Acné excoriée
+L70.8,Other acne
+L70.9,"Acne, unspecified"
+L71,Rosacea
+L71.0,Perioral dermatitis
+L71.1,Rhinophyma
+L71.8,Other rosacea
+L71.9,"Rosacea, unspecified"
+L72,Follicular cysts of skin and subcutaneous tissue
+L72.0,Epidermal cyst
+L72.1,Trichilemmal cyst
+L72.2,Steatocystoma multiplex
+L72.8,Other follicular cysts of skin and subcutaneous tissue
+L72.9,"Follicular cyst of skin and subcutaneous tissue, unspecified"
+L73,Other follicular disorders
+L73.0,Acne keloid
+L73.1,Pseudofolliculitis barbae
+L73.2,Hidradenitis suppurativa
+L73.8,Other specified follicular disorders
+L73.9,"Follicular disorder, unspecified"
+L74,Eccrine sweat disorders
+L74.0,Miliaria rubra
+L74.1,Miliaria crystallina
+L74.2,Miliaria profunda
+L74.3,"Miliaria, unspecified"
+L74.4,Anhidrosis
+L74.8,Other eccrine sweat disorders
+L74.9,"Eccrine sweat disorder, unspecified"
+L75,Apocrine sweat disorders
+L75.0,Bromhidrosis
+L75.1,Chromhidrosis
+L75.2,Apocrine miliaria
+L75.8,Other apocrine sweat disorders
+L75.9,"Apocrine sweat disorder, unspecified"
+L80,Vitiligo
+L81,Other disorders of pigmentation
+L81.0,Postinflammatory hyperpigmentation
+L81.1,Chloasma
+L81.2,Freckles
+L81.3,Café au lait spots
+L81.4,Other melanin hyperpigmentation
+L81.5,"Leukoderma, not elsewhere classified"
+L81.6,Other disorders of diminished melanin formation
+L81.7,Pigmented purpuric dermatosis
+L81.8,Other specified disorders of pigmentation
+L81.9,"Disorder of pigmentation, unspecified"
+L82,Seborrhoeic keratosis
+L83,Acanthosis nigricans
+L84,Corns and callosities
+L85,Other epidermal thickening
+L85.0,Acquired ichthyosis
+L85.1,Acquired keratosis [keratoderma] palmaris et plantaris
+L85.2,Keratosis punctata (palmaris et plantaris)
+L85.3,Xerosis cutis
+L85.8,Other specified epidermal thickening
+L85.9,"Epidermal thickening, unspecified"
+L86,Keratoderma in diseases classified elsewhere
+L87,Transepidermal elimination disorders
+L87.0,Keratosis follicularis et parafollicularis in cutem penetrans [Kyrle]
+L87.1,Reactive perforating collagenosis
+L87.2,Elastosis perforans serpiginosa
+L87.8,Other transepidermal elimination disorders
+L87.9,"Transepidermal elimination disorder, unspecified"
+L88,Pyoderma gangrenosum
+L89,Decubitus ulcer and pressure area
+L89.0,Stage I decubitus ulcer and pressure area
+L89.1,Stage II decubitus ulcer
+L89.2,Stage III decubitus ulcer
+L89.3,Stage IV decubitus ulcer
+L89.9,"Decubitus ulcer and pressure area, unspecified"
+L90,Atrophic disorders of skin
+L90.0,Lichen sclerosus et atrophicus
+L90.1,Anetoderma of Schweninger-Buzzi
+L90.2,Anetoderma of Jadassohn-Pellizzari
+L90.3,Atrophoderma of Pasini and Pierini
+L90.4,Acrodermatitis chronica atrophicans
+L90.5,Scar conditions and fibrosis of skin
+L90.6,Striae atrophicae
+L90.8,Other atrophic disorders of skin
+L90.9,"Atrophic disorder of skin, unspecified"
+L91,Hypertrophic disorders of skin
+L91.0,Hypertrophic scar
+L91.8,Other hypertrophic disorders of skin
+L91.9,"Hypertrophic disorder of skin, unspecified"
+L92,Granulomatous disorders of skin and subcutaneous tissue
+L92.0,Granuloma annulare
+L92.1,"Necrobiosis lipoidica, not elsewhere classified"
+L92.2,Granuloma faciale [eosinophilic granuloma of skin]
+L92.3,Foreign body granuloma of skin and subcutaneous tissue
+L92.8,Other granulomatous disorders of skin and subcutaneous tissue
+L92.0,"Granulomatous disorder of skin and subcutaneous tissue, unspecified"
+L93,Lupus erythematosus
+L93.0,Discoid lupus erythematosus
+L93.1,Subacute cutaneous lupus erythematosus
+L93.2,Other local lupus erythematosus
+L94,Other localized connective tissue disorders
+L94.0,Localized scleroderma [morphea]
+L94.1,Linear scleroderma
+L94.2,Calcinosis cutis
+L94.3,Sclerodactyly
+L94.4,Gottron papules
+L94.5,Poikiloderma vasculare atrophicans
+L94.6,Ainhum
+L94.8,Other specified localized connective tissue disorders
+L94.9,"Localized connective tissue disorder, unspecified"
+L95,"Vasculitis limited to skin, not elsewhere classified"
+L95.0,Livedoid vasculitis
+L95.1,Erythema elevatum diutinum
+L95.8,Other vasculitis limited to skin
+L95.9,"Vasculitis limited to skin, unspecified"
+L97,"Ulcer of lower limb, not elsewhere classified"
+L98,"Other disorders of skin and subcutaneous tissue, not elsewhere classified"
+L98.0,Pyogenic granuloma
+L98.1,Factitial dermatitis
+L98.2,Febrile neutrophilic dermatosis [Sweet]
+L98.3,Eosinophilic cellulitis [Wells]
+L98.4,"Chronic ulcer of skin, not elsewhere classified"
+L98.5,Mucinosis of skin
+L98.6,Other infiltrative disorders of skin and subcutaneous tissue
+L98.7,Excessive and redundant skin and subcutaneous tissue
+L98.8,Other specified disorders of skin and subcutaneous tissue
+L98.0,"Disorder of skin and subcutaneous tissue, unspecified"
+L99,Other disorders of skin and subcutaneous tissue in diseases classified elsewhere
+L99.0,Amyloidosis of skin
+L99.8,Other specified disorders of skin and subcutaneous tissue in diseases classified elsewhere
