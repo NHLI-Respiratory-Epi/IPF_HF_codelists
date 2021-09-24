@@ -1,0 +1,105 @@
+medcodeid,readcode,readterm,ckd
+304031000000117,1Z10.00,Chronic kidney disease stage 1,1
+304051000000112,1Z11.00,Chronic kidney disease stage 2,1
+304071000000115,1Z12.00,Chronic kidney disease stage 3,1
+304091000000116,1Z13.00,Chronic kidney disease stage 4,1
+304111000000114,1Z14.00,Chronic kidney disease stage 5,1
+557811000000119,1Z15.00,Chronic kidney disease stage 3A,1
+557831000000110,1Z16.00,Chronic kidney disease stage 3B,1
+595541000000119,1Z17.00,Chronic kidney disease stage 1 with proteinuria,1
+595601000000118,1Z18.00,Chronic kidney disease stage 1 without proteinuria,1
+595661000000119,1Z19.00,Chronic kidney disease stage 2 with proteinuria,1
+618411000000118,1Z19.11,CKD stage 2 with proteinuria,1
+595721000000116,1Z1A.00,Chronic kidney disease stage 2 without proteinuria,1
+618421000000112,1Z1A.11,CKD stage 2 without proteinuria,1
+595811000000117,1Z1B.00,Chronic kidney disease stage 3 with proteinuria,1
+595871000000110,1Z1C.00,Chronic kidney disease stage 3 without proteinuria,1
+618451000000119,1Z1D.11,CKD stage 3A with proteinuria,1
+595991000000115,1Z1E.00,Chronic kidney disease stage 3A without proteinuria,1
+596051000000115,1Z1F.00,Chronic kidney disease stage 3B with proteinuria,1
+618471000000111,1Z1F.11,CKD stage 3B with proteinuria,1
+596131000000114,1Z1G.00,Chronic kidney disease stage 3B without proteinuria,1
+618481000000113,1Z1G.11,CKD stage 3B without proteinuria,1
+596191000000110,1Z1H.00,Chronic kidney disease stage 4 with proteinuria,1
+618491000000110,1Z1H.11,CKD stage 4 with proteinuria,1
+596261000000111,1Z1J.00,Chronic kidney disease stage 4 without proteinuria,1
+618501000000116,1Z1J.11,CKD stage 4 without proteinuria,1
+596321000000110,1Z1K.00,Chronic kidney disease stage 5 with proteinuria,1
+596401000000111,1Z1L.00,Chronic kidney disease stage 5 without proteinuria,1
+1940591000006114,1Z1Q.00,CKD with GFR category G2 & albuminuria category A1,1
+1940601000006118,1Z1R.00,CKD with GFR category G2 & albuminuria category A2,1
+1940631000006114,1Z1V.00,CKD with GFR category G3a & albuminuria category A2,1
+1940641000006116,1Z1W.00,CKD with GFR category G3a & albuminuria category A3,1
+1940651000006119,1Z1X.00,CKD with GFR category G3b & albuminuria category A1,1
+1940661000006117,1Z1Y.00,CKD with GFR category G3b & albuminuria category A2,1
+1940671000006112,1Z1Z.00,CKD with GFR category G3b & albuminuria category A3,1
+1940501000006119,1Z1a.00,CKD with GFR category G4 & albuminuria category A1,1
+1940511000006116,1Z1b.00,CKD with GFR category G4 & albuminuria category A2,1
+1940521000006112,1Z1c.00,CKD with GFR category G4 & albuminuria category A3,1
+1940551000006115,1Z1f.00,CKD with GFR category G5 & albuminuria category A3,1
+618461000000116,1z1E.11,CKD stage 3A without proteinuria,1
+2675886019,7A60600,Creation of graft fistula for dialysis,1
+394639018,7L1A.00,Compensation for renal failure,1
+619541000006116,7L1A.11,Dialysis for renal failure,1
+394640016,7L1A000,Renal dialysis,1
+106291000006118,7L1A011,Thomas intravascular shunt for dialysis,1
+118218017,7L1A100,Peritoneal dialysis,1
+278832011,7L1A200,Haemodialysis NEC,1
+349998013,7L1A300,Haemofiltration,1
+2692168016,7L1A400,Automated peritoneal dialysis,1
+357219012,7L1A500,Continuous ambulatory peritoneal dialysis,1
+375841000000114,7L1A600,Peritoneal dialysis NEC,1
+278834012,7L1Ay00,Other specified compensation for renal failure,1
+278835013,7L1Az00,Compensation for renal failure NOS,1
+228101000006113,7L1B.00,Placement ambulatory apparatus compensation renal failure,1
+228131000006117,7L1B.11,Placement ambulatory dialysis apparatus - compens renal fail,1
+773041000006111,7L1B000,Insertion of ambulatory peritoneal dialysis catheter,1
+1705621000000113,7L1B200,Flushing of peritoneal dialysis catheter,1
+228121000006115,7L1By00,Placement ambulatory apparatus- compensate renal failure OS,1
+228211000006117,7L1C.00,Placement other apparatus for compensation for renal failure,1
+278844014,7L1C000,Insertion of temporary peritoneal dialysis catheter,1
+228231000006111,7L1Cy00,Placement other apparatus- compensate for renal failure OS,1
+228221000006113,7L1Cz00,Placement other apparatus- compensate for renal failure NOS,1
+356557018,C353600,Renal failure-associated hyperphosphataemia,1
+299673010,G233.00,Hypertensive heart and renal disease with renal failure,1
+2195661000000114,G72D.00,Aneurysm of dialysis arteriovenous fistula,1
+1847091000006110,G72D000,Aneurysm of superficialised artery of dialysis AV fistula,1
+2195721000000112,G72D100,Aneurysm of needle site of dialysis arteriovenous fistula,1
+1847111000006118,G72D200,Aneurysm of anastomotic site of dialysis AV fistula,1
+2210341000000113,Gy1..00,Stenosis of dialysis vascular access,1
+2237981000000112,Gy10.00,Stenosis of dialysis arteriovenous graft,1
+2210381000000117,Gy2..00,Thrombosis of dialysis vascular access,1
+2238301000000119,Gy21.00,Thrombosis of dialysis arteriovenous fistula,1
+2237821000000118,Gy3..00,Occlusion of dialysis vascular access,1
+2238381000000112,Gy30.00,Occlusion of dialysis arteriovenous graft,1
+2238421000000115,Gy31.00,Occlusion of dialysis arteriovenous fistula,1
+2237861000000114,Gy4..00,Infection of dialysis vascular access,1
+2240321000000114,Gy40.00,Infection of dialysis arteriovenous graft,1
+1870801000006111,Gy41.00,Infection of dialysis arteriovenous fistula,1
+2237901000000119,Gy5..00,Haemorrhage of dialysis vascular access,1
+2240871000000116,Gy51.00,Haemorrhage of dialysis arteriovenous fistula,1
+2240951000000115,Gy60.00,Rupture of dialysis arteriovenous graft,1
+215521000000116,K050.00,End stage renal failure,1
+2767383018,K051.00,Chronic kidney disease stage 1,1
+2767384012,K052.00,Chronic kidney disease stage 2,1
+2773184015,K053.00,Chronic kidney disease stage 3,1
+2767154014,K055.00,Chronic kidney disease stage 5,1
+396711013,K06..00,Renal failure unspecified,1
+73171000006118,K06..11,Uraemia NOS,1
+1816581000006110,K06..12,Kidney failure unspecified,1
+641491000006116,K0D..00,End-stage renal disease,1
+424731000006111,Kyu2.00,[X]Renal failure,1
+30043012,SP01500,Mechanical complication of dialysis catheter,1
+453312018,SP05613,[X] Peritoneal dialysis associated peritonitis,1
+1743241000006119,SP06B00,Continuous ambulatory peritoneal dialysis associated perit,1
+2645965011,SP07G00,Stenosis of arteriovenous dialysis fistula,1
+1848741000006116,SP0E.00,Disorders associated with peritoneal dialysis,1
+2211311000000117,SP0F.00,Haemodialysis first use syndrome,1
+2211671000000119,SP0G.00,Anaphylactoid reaction due to haemodialysis,1
+403109016,SP15400,Renal failure as a complication of care,1
+403110014,SP15411,Kidney failure as a complication of care,1
+218351000000112,SP15412,Post operative renal failure,1
+754781000006116,TB11.00,"Kidney dialysis with complication, without blame",1
+176711000006111,TB11.11,"Renal dialysis with complication, without blame",1
+384641000006114,U612200,[X]Failure sterile precautions dur kidney dialys/other perf,1
+460912010,ZV56100,[V]Preparatory care for dialysis,1
