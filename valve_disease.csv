@@ -1,0 +1,525 @@
+medcodeid,term,valve_disease
+31287015,congenital aortic stenosis,1
+50085019,congenital mitral insufficiency,1
+52032016,rheumatic mitral insufficiency,1
+81186016,mitral valve regurgitation,1
+81192010,mitral valve insufficiency,1
+88255012,replacement of mitral valve,1
+129504017,rheumatic aortic insufficiency,1
+270998011,revision of plastic repair of mitral valve,1
+270999015,revision of plastic repair of aortic valve,1
+271012017,open tricuspid valvotomy,1
+271030012,annuloplasty of mitral valve,1
+271044018,percutaneous transluminal aortic valvotomy,1
+271045017,percutaneous transluminal tricuspid valvotomy,1
+271046016,percutaneous transluminal pulmonary valvotomy,1
+271057014,repair of subaortic stenosis,1
+299592019,mitral stenosis with regurgitation,1
+299593012,mitral stenosis with incompetence,1
+299603011,mitral and aortic stenosis,1
+299608019,mitral regurgitation and aortic stenosis,1
+299610017,mitral and aortic incompetence,1
+299611018,mitral and aortic insufficiency,1
+299612013,mitral and aortic regurgitation,1
+299980014,"mitral incompetence, non-rheumatic",1
+299987012,"aortic insufficiency, non-rheumatic",1
+299988019,"aortic stenosis, non-rheumatic",1
+299991019,aortic valve stenosis with insufficiency,1
+299993016,"tricuspid valve disorders, non-rheumatic",1
+313382012,subaortic stenosis,1
+349007011,open truncal valvotomy,1
+377727015,postductal aortic stenosis,1
+394276014,plastic repair of mitral valve,1
+394277017,plastic repair of aortic valve,1
+505490010,closed pulmonary valvotomy,1
+1219795015,closed aortic valvotomy,1
+1227426018,mitral incompetence - rheumatic,1
+1228441015,congenital tricuspid stenosis,1
+1234202016,aortic incompetence - rheumatic,1
+1234383014,mitral stenosis,1
+2471474013,mitral valve prolapse,1
+635721000006112,echo - mitral valve excursion,1
+883991000006114,chronic rheumatic mitral valve,1
+884021000006110,chronic rheumatic aortic valve,1
+884051000006118,mitral + aortic valve disease,1
+884081000006114,rh. pulmonary valve disease,1
+884291000006116,non-rheum. aortic incompetence,1
+81191015,mitral valve incompetence,1
+270933016,mitral valvuloplasty nec,1
+270934010,other specified plastic repair of mitral valve,1
+270949019,replacement of aortic valve nec,1
+270981011,pulmonary valvuloplasty nec,1
+299596016,mitral valve disease nos,1
+299614014,mitral and aortic valve disease nos,1
+299616011,tricuspid valve disease nec,1
+299981013,"mitral incompetence, cause unspecified",1
+299989010,"aortic incompetence alone, cause unspecified",1
+299992014,aortic valve disorders nos,1
+300000019,tricuspid valve disorders nos,1
+300012015,pulmonary valve disorders nos,1
+300864010,[x]other rheumatic aortic valve diseases,1
+300897011,[x]aortic valve disorders in diseases classified elsewhere,1
+313373018,"congenital aortic valve insufficiency, unspecified",1
+313374012,congenital aortic valve insufficiency nos,1
+313375013,"congenital mitral stenosis, unspecified",1
+313378010,congenital mitral stenosis nos,1
+1222307019,"tricuspid regurgitation, cause unspecified",1
+1222314017,"aortic insufficiency alone, cause unspecified",1
+1222315016,"aortic regurgitation alone, cause unspecified",1
+55891000006112,xenograft replacement of aortic valve,1
+55901000006111,xenograft replacement of mitral valve,1
+87501000006118,tricuspid regurgitation - rheumatic,1
+193991000006118,pulmonary valve disorders,1
+204071000006116,prosthetic replacement of aortic valve,1
+204181000006117,prosthetic replacement of mitral valve,1
+233261000006114,percutaneous transluminal valvotomy,1
+297491000006116,"nonrheumatic tricuspid valve disorder, unspecified",1
+412251000006112,[x]other nonrheumatic tricuspid valve disorders,1
+424311000006118,[x]pulmonary valve disorders in diseases ce,1
+429571000006116,[x]tricuspid valve disorders/diseases ce,1
+488451000006114,aortic regurgitation - rheumatic,1
+488521000006118,aortic valve disorders,1
+514511000006110,bjork-shiley prosthetic replacement of mitral valve,1
+580501000006119,congenital aortic valve stenosis,1
+585851000006114,nonrheumatic mitral valve stenosis,1
+636731000006119,edwards prosthetic replacement of mitral valve,1
+700891000006114,mitral valve prolapse,1
+1716711000006112,transluminal aortic valve implantation,1
+270950019,aortic valvuloplasty nec,1
+299613015,multiple mitral and aortic valve involvement,1
+1232103019,aortic stenosis,1
+461520010,[x]presence of other heart valve replacement,1
+2919571000006112,avr - aortic valve replacement,1
+4664781000006112,pericardial pulmonary valve replacement,1
+2960391000006112,congenital aortic regurgitation,1
+6426371000006117,tvr - tricuspid valve repair,1
+6460431000006117,percutaneous transluminal cardiac valvotomy,1
+2981761000006110,congenital insufficiency of mitral valve,1
+4664661000006111,replacement of aortic valve with prosthesis,1
+4193431000006116,tricuspid valve insufficiency,1
+11927251000006117,aortic stenosis,1
+3308131000006112,tricuspid stenosis,1
+3853931000006111,brock operation for pulmonary valvotomy,1
+4775551000006111,non-rheumatic mitral valve stenosis,1
+3865011000006111,rheumatic mitral valve changes,1
+3049631000006118,rheumatic pulmonary valve incompetence,1
+3288521000006112,mr - mitral regurgitation,1
+3600891000006113,rheumatic tricuspid valve incompetence,1
+4214601000006113,valvuloplasty of aortic valve,1
+3841301000006115,ms - congenital mitral stenosis,1
+2602511000006114,closed heart valvotomy of mitral valve,1
+2781811000006113,rheumatic aortic stenosis with incompetence,1
+3422481000006118,ps - pulmonary valve stenosis,1
+4664901000006117,omv - open mitral valvotomy,1
+2602521000006118,closed valvotomy of mitral valve,1
+4193421000006119,tricuspid valve incompetence,1
+3049621000006116,rheumatic pulmonary valve regurgitation,1
+3304451000006116,rheumatic tricuspid valve disease,1
+3483891000006117,stenosed aortic valve,1
+3288481000006112,mitral valve incompetence,1
+3360361000006119,excision and replacement of mitral valve,1
+3853911000006117,closed heart valvotomy of pulmonary valve,1
+2981791000006119,mr - congenital mitral regurgitation,1
+4776791000006119,"aortic valve regurgitation, nonrheumatic",1
+4193471000006118,tr - tricuspid regurgitation,1
+5503471000006117,svas - supravalvar aortic stenosis,1
+3864991000006118,rheumatic disease of mitral valve,1
+2919561000006117,excision and replacement of aortic valve,1
+4776841000006116,"tricuspid valve disorder, nonrheumatic",1
+3988881000006113,fused commissures of mitral valve,1
+7285261000006115,grafting of aortic valve prosthesis using transluminal approach,1
+2688731000006112,mvd - mitral valve disease,1
+4824831000006117,parachute malformation of mitral valve,1
+3049611000006112,rheumatic pulmonary valve insufficiency,1
+3483911000006115,as - aortic stenosis,1
+4214641000006110,avp - aortic valvuloplasty,1
+3478261000006114,aortic valve incompetence,1
+4776821000006111,"tricuspid valve disorder, non-rheumatic",1
+7284801000006116,grafting of aortic valve prosthesis by transapical approach,1
+4664771000006114,xenograft pulmonary valve replacement,1
+3478301000006117,ar - aortic regurgitation,1
+3619881000006118,percutaneous valvuloplasty,1
+5972731000006118,cardiac valvotomy,1
+4664761000006119,allograft pulmonary valve replacement,1
+4664571000006115,allograft mitral valve replacement,1
+2960381000006114,congenital aortic insufficiency,1
+3478251000006112,aortic valve insufficiency,1
+3985501000006114,pulmonary valve regurgitation,1
+4664911000006119,omvy - open mitral valvotomy,1
+4777011000006111,"pulmonary valve stenosis, nonrheumatic",1
+6460781000006112,pvp - pulmonary valvuloplasty,1
+3600881000006110,rheumatic tricuspid valve insufficiency,1
+12717041000006110,multiple mitral and aortic valve involvement,1
+12726491000006117,tricuspid valve disease nec,1
+371601000006119,[x]congenital malformation of aortic and mitral valves unsp,1
+408041000006117,[x]other congenital malformations of aortic & mitral valves,1
+583621000006115,congenital malformation of aortic and mitral valves unsp,1
+989091000006116,mitral + aortic valve disease,1
+2981781000006117,congenital mitral regurgitation,1
+159271000006119,ruptured mitral valve cusp,1
+270952010,plastic repair of aortic valve nos,1
+299624018,rheumatic tricuspid valve disease nos,1
+299626016,rheumatic pulmonary valve disease nos,1
+299984017,mitral valve disorders nos,1
+300863016,[x]other mitral valve diseases,1
+884001000006117,rh. mitral stenosis + insuffic,1
+884031000006113,rh. aortic stenosis + insuffic,1
+884271000006117,non-rheum. mitral incompetence,1
+488551000006110,aortic valve opening restricted,1
+299591014,mitral stenosis with insufficiency,1
+299607012,mitral incompetence and aortic stenosis,1
+299609010,mitral insufficiency and aortic stenosis,1
+299985016,"aortic incompetence, non-rheumatic",1
+299986015,"aortic regurgitation, non-rheumatic",1
+300011010,pulmonary valve stenosis with insufficiency,1
+271005014,open heart valvotomy,1
+30011012,rheumatic aortic stenosis with insufficiency,1
+120221015,bicuspid aortic valve,1
+4776951000006111,"pulmonary valve regurgitation, nonrheumatic",1
+538921000006110,carpentier prosthetic replacement of mitral valve,1
+2960401000006114,ar - congenital aortic regurgitation,1
+4664591000006119,pericardial mitral valve replacement,1
+4664611000006113,homograft aortic valve replacement,1
+3288511000006116,mi - mitral incompetence,1
+4424221000006110,closed heart valvotomy of tricuspid valve,1
+4664561000006110,homograft mitral valve replacement,1
+3740551000006115,pvd - pulmonary valve disease,1
+3841271000006117,congenital stenosis of mitral valve,1
+4776741000006111,non-rheumatic mitral regurgitation,1
+12726471000006118,mitral valve disease nos,1
+3001221000006111,rheumatic mitral incompetence,1
+3897321000006110,rheumatic pulmonary valve stenosis with insufficiency,1
+3985471000006119,pulmonary valve insufficiency,1
+12728231000006119,rheumatic tricuspid valve disease nos,1
+700741000006112,mitral regurgitation - rheumatic,1
+116861000006111,supra-valvular aortic stenosis,1
+172601000006117,repair of supraaortic stenosis,1
+299597013,rheumatic aortic valve disease nos,1
+300865011,[x]other tricuspid valve diseases,1
+300895015,[x]other pulmonary valve disorders,1
+474766017,closed tricuspid valvotomy,1
+499818013,closed mitral valvotomy,1
+505828015,rheumatic mitral valve disease,1
+313431013,fusion of mitral valve cusps,1
+299618012,rheumatic tricuspid stenosis and incompetence,1
+299620010,rheumatic tricuspid stenosis and insufficiency,1
+299997015,"tricuspid stenosis, non-rheumatic",1
+270944012,allograft replacement of aortic valve,1
+271015015,open pulmonary valvotomy,1
+20721017,rheumatic aortic valve disease,1
+43909016,replacement of aortic valve,1
+136773016,congenital mitral stenosis,1
+188662011,aortic valvuloplasty,1
+478011000006110,allograft replacement of mitral valve,1
+580471000006114,congenital aortic valve insufficiency,1
+3422461000006111,pvs - pulmonary valve stenosis,1
+2639211000006112,avd - aortic valve disease,1
+1716111000006113,transapical aortic valve implantation,1
+270994013,valvuloplasty of heart nec,1
+465651000000113,pulmonary valve repair nec,1
+5294291000006112,rupture of mitral valve leaflet,1
+3288531000006110,mitral insufficiency,1
+6426311000006114,mvr - mitral valve repair,1
+3897331000006113,rheumatic pulmonary valve stenosis with regurgitation,1
+3360371000006114,mvr - mitral valve replacement,1
+3794891000006110,ms - mitral stenosis,1
+6460771000006114,valvuloplasty of pulmonary valve,1
+2602541000006113,cmv - closed mitral valvotomy,1
+3985621000006117,rheumatic pulmonary valve stenosis,1
+5295301000006114,aortic valve ventriculoarterial gradient,1
+3985481000006116,pulmonary valve incompetence,1
+3619911000006118,percutaneous cardiac valvuloplasty,1
+4664751000006116,homograft pulmonary valve replacement,1
+2781791000006114,rheumatic aortic stenosis with regurgitation,1
+12719421000006115,valvuloplasty of heart nec,1
+355881000000116,percutaneous transluminal pulmonary valve replacement,1
+400161000006117,"[x]nonrheumatic tricuspid valve disorder, unspecified",1
+412241000006110,[x]other nonrheumatic mitral valve disorders,1
+1222309016,"tricuspid stenosis and incompetence, cause unspecified",1
+270932014,replacement of mitral valve nec,1
+270935011,plastic repair of mitral valve nos,1
+270951015,other specified plastic repair of aortic valve,1
+270966017,tricuspid valvuloplasty nec,1
+299990018,"aortic stenosis alone, cause unspecified",1
+300893010,[x]other aortic valve disorders,1
+1478969019,mitral valvuloplasty,1
+348739017,bjork-shiley prosthetic replacement of mitral valve,1
+374120018,mitral valve leaf prolapse,1
+299602018,diseases of mitral and aortic valves,1
+299996012,"tricuspid regurgitation, non-rheumatic",1
+271010013,open mitral valvotomy,1
+271011012,open aortic valvotomy,1
+143386015,rheumatic mitral stenosis,1
+465571000000117,mitral valve repair nec,1
+3308141000006119,ts - tricuspid stenosis,1
+4664641000006112,pericardial aortic valve replacement,1
+4664581000006117,xenograft mitral valve replacement,1
+4214571000006118,closed heart valvotomy of aortic valve,1
+3897341000006115,rheumatic pulmonary valve stenosis with incompetence,1
+4214621000006115,repair of aortic valve,1
+4665011000006119,mva - mitral valve annuloplasty,1
+3769311000006114,rheumatic aortic incompetence,1
+4664791000006110,mechanical prosthetic pulmonary valve replacement,1
+3905981000006110,rheumatic mitral valve obstruction,1
+3794881000006112,mitral valve stenosis,1
+5041611000006117,av - aortic valve operation,1
+2691341000006112,rheumatic disease of aortic valve,1
+3478281000006116,aortic incompetence,1
+12726481000006115,rheumatic aortic valve disease nos,1
+884071000006111,rh. tricuspid valve disease,1
+989101000006110,rh. tricuspid valve disease,1
+2602551000006110,cmvy - closed mitral valvotomy,1
+4193441000006114,tricuspid regurgitation,1
+410959018,heart valvotomy nec,1
+1222308012,"tricuspid stenosis and regurgitation, cause unspecified",1
+299621014,"tricuspid stenosis, cause unspecified",1
+299623012,"tricuspid stenosis and insufficiency, cause unspecified",1
+300896019,[x]mitral valve disorders in diseases classified elsewhere,1
+6426351000006110,valvuloplasty of mitral valve,1
+884311000006117,non-rheum. tricuspid stenosis,1
+2536641017,tricuspid valvuloplasty,1
+1235697018,fused commissure of the mitral valve,1
+374225019,aortic valve gradient,1
+377722014,preductal aortic stenosis,1
+271020015,closed heart valvotomy,1
+271043012,percutaneous transluminal mitral valvotomy,1
+299604017,mitral stenosis and aortic insufficiency,1
+299605016,mitral stenosis and aortic regurgitation,1
+299606015,mitral stenosis and aortic incompetence,1
+299619016,rheumatic tricuspid stenosis and regurgitation,1
+1705016,valvular heart disease,1
+31507017,rheumatic pulmonary valve disease,1
+81193017,mitral regurgitation,1
+119660019,rheumatic aortic stenosis,1
+2478805011,percutaneous transluminal valvuloplasty,1
+168601000006114,rheumatic tricuspid stenosis,1
+194021000006117,pulmonary valvuloplasty,1
+219511000000113,mitral valve diseases,1
+250411000006119,parachute deformity of the mitral valve,1
+7285271000006110,grafting of aortic valve prosthesis by transluminal approach,1
+3084021000006117,ts - congenital tricuspid stenosis,1
+3422451000006114,pulmonary valve stenosis,1
+3478291000006118,ai - aortic incompetence,1
+465381000000114,aortic valve repair nec,1
+465521000000116,tricuspid valve repair nec,1
+3478271000006119,aortic regurgitation,1
+4664961000006116,closed cardiac valvotomy,1
+3478311000006119,aortic insufficiency,1
+865141000006117,heart valve replacement-graft,1
+865161000006118,heart valvuloplasty,1
+4664861000006112,open cardiac valvotomy,1
+5332111000006119,aortic valve ring hypoplasia,1
+6782861000006115,mvp - mitral valve prolapse,1
+3671491000006114,rheumatic aortic valve obstruction,1
+12729191000006119,aortic valve disorders nos,1
+105381000006119,therapeutic transluminal operations on valve of heart,1
+125481000006119,starr prosthetic replacement of valve of heart,1
+12720241000006110,allograft replacement of valve of heart nec,1
+12759331000006115,repair of valve of heart nec,1
+2504401000006110,heart valve disorder,1
+2504421000006117,heart valve disease,1
+2504431000006119,disorder of heart valve,1
+2568551000006116,tv - congenital tricuspid valve abnormality,1
+2568561000006119,congenital tricuspid valve abnormality,1
+270995014,other specified plastic repair of unspecified valve of heart,1
+270996010,plastic repair of unspecified valve of heart nos,1
+271016019,other specified open specified incision of valve of heart,1
+271027017,other specified closed incision of valve of heart,1
+271028010,closed incision of valve of heart nos,1
+271029019,other open operations on valve of heart,1
+271036018,annuloplasty of valve of heart nec,1
+271038017,other specified other open operation on valve of heart,1
+271039013,other open operation on valve of heart nos,1
+271062010,other operations on structure adjacent to valve of heart,1
+2739271000006114,congenital insufficiency of pulmonary valve,1
+2739281000006112,congenital pulmonary regurgitation,1
+2796551000006118,rheumatic disease of pulmonary valve,1
+287257017,syphilitic endocarditis of unspecified valve,1
+2903301000006111,tvr - tricuspid valve replacement,1
+3049641000006111,rheumatic pulmonary regurgitation,1
+3084011000006113,congenital stenosis of tricuspid valve,1
+3128691000006116,pulmonary valve structure,1
+313344016,other congenital heart anomalies,1
+313360017,other pulmonary valve anomalies,1
+313368012,congenital tricuspid atresia or stenosis nos,1
+3151051000006110,heart valve insufficiency,1
+3151061000006112,heart valve incompetence,1
+3304441000006118,rheumatic disease of tricuspid valve,1
+3308121000006114,tricuspid valve stenosis,1
+3422471000006116,pulmonic stenosis,1
+3422491000006115,pulmonary stenosis,1
+3594351000006110,congenital valvular pulmonic stenosis,1
+3600871000006112,rheumatic tricuspid valve regurgitation,1
+3601841000006111,aortic sclerosis,1
+3601851000006113,senile sclerosis of aortic cusp,1
+3619901000006116,transluminal cardiac valvoplasty,1
+3643551000006119,cardiac valvular malformation,1
+3643561000006117,congenital heart valve abnormality,1
+3695691000006118,operation on heart valve,1
+3695701000006118,operative procedure on heart valve,1
+3740531000006110,pulmonic valve disorder,1
+3853941000006118,closed pulmonary commissurotomy,1
+3935181000006117,rheumatic tricuspid valve stenosis,1
+3935191000006119,rheumatic tricuspid valve obstruction,1
+394280016,plastic repair of unspecified valve of heart,1
+394281017,prosthetic replacement of valve of heart nec,1
+394282012,open incision of valve of heart nos,1
+3985461000006114,pulmonic valve insufficiency,1
+3985491000006118,pulmonic regurgitation,1
+3985511000006112,pulmonic valve incompetence,1
+3985521000006116,pr - pulmonary regurgitation,1
+3985531000006118,pvr - pulmonary regurgitation,1
+3985541000006111,pulmonic insufficiency,1
+3985631000006119,rheumatic pulmonary valve obstruction,1
+4193451000006111,ti - tricuspid incompetence,1
+4193461000006113,tricuspid insufficiency,1
+4214631000006117,aortic valvoplasty,1
+4542561000006118,history of heart valve recipient,1
+4542781000006116,history of artificial heart valve,1
+465751000000116,repair of valve of heart nec,1
+4664671000006116,homograft tricuspid valve replacement,1
+4664681000006118,allograft tricuspid valve replacement,1
+4664691000006115,xenograft tricuspid valve replacement,1
+4664701000006115,pericardial tricuspid valve replacement,1
+4664711000006117,mechanical prosthetic tricuspid valve replacement,1
+4664721000006113,repair of ebstein's anomaly of tricuspid valve,1
+4664741000006118,repair of ebstein anomaly of tricuspid valve,1
+4664801000006111,replacement of pulmonary valve with prosthesis,1
+4664951000006118,open pulmonary commissurotomy,1
+4664981000006114,closed heart valvulotomy,1
+4665021000006110,mitral annulus remodelling,1
+4775711000006115,rheumatic tricuspid valve stenosis with regurgitation,1
+4776881000006110,"tricuspid valve regurgitation, nonrheumatic",1
+4776901000006112,"tricuspid valve stenosis, nonrheumatic",1
+4776911000006110,non-rheumatic tricuspid valve stenosis with insufficiency,1
+4824641000006114,pv - congenital pulmonary valve abnormality,1
+4824651000006111,congenital anomaly of pulmonary valve,1
+4824661000006113,congenital malformation of pulmonary valve,1
+5041501000006116,resection of tricuspid valve,1
+5041511000006118,excision of tricuspid valve,1
+5042331000006110,oversewing of pulmonary valve,1
+5042441000006113,resection of pulmonary valve,1
+5042451000006110,excision of pulmonary valve,1
+505081012,duroziez's disease,1
+526141000006115,brock pulmonary valvulotomy,1
+5294141000006112,mitral cusp prolapse,1
+5294151000006114,mitral leaf prolapse,1
+5294281000006114,torn mitral leaflet,1
+5560081000006119,non-rheumatic heart valve disorder,1
+5560091000006116,heart valve disorders - non-rheumatic,1
+5972741000006111,cardiac valvulotomy,1
+5972751000006113,incision of heart valve,1
+636741000006112,edwards prosthetic replacement of valve of heart,1
+6426331000006115,mitral valvoplasty,1
+6426341000006113,mvp - mitral valvoplasty,1
+6426361000006112,repair of tricuspid valve,1
+6426381000006119,tvp - tricuspid valve plasty,1
+6426391000006116,tricuspid valvoplasty,1
+6460761000006119,repair of pulmonary valve,1
+6460791000006110,pulmonary valvoplasty,1
+787901000006111,hypoplastic aortic orifice or valve,1
+8087541000006111,history of heart valve repair with prosthesis,1
+884011000006119,rheumatic mitral disease nos,1
+884041000006115,rheumatic aortic disease nos,1
+884281000006119,non-rheumatic aortic sclerosis,1
+884301000006115,non-rheum. tricuspid incomp.,1
+884321000006113,non-rheum. pulmonary regurg.,1
+989141000006112,non-rheumatic aortic sclerosis,1
+991631000006110,rheumatic aortic disease nos,1
+251936016,h/o: artificial heart valve ,1
+299995011,"tricuspid insufficiency, non-rheumatic ",1
+300001015,"pulmonary incompetence, non-rheumatic ",1
+300014019,disorders of both aortic and tricuspid valves ,1
+300015018,disorders of both mitral and tricuspid valves ,1
+300016017,"combined disorders of mitral, aortic and tricuspid valves ",1
+313351013,congenital atresia of the pulmonary valve ,1
+313355016,congenital fusion of pulmonary valve segment ,1
+348801017,tricuspid valvectomy ,1
+394278010,plastic repair of tricuspid valve ,1
+1228148017,rheumatic pulmonary insufficiency ,1
+1232958015,tricuspid incompetence - rheumatic ,1
+1232960018,rheumatic tricuspid insufficiency ,1
+2535810014,congenital insufficiency of the pulmonary valve ,1
+2695640010,aortoventriculoplasty with pulmonary valve autograft ,1
+989131000006119,non-rheumatic valvular disease ,1
+145956019,replacement of pulmonary valve ,1
+270967014,other specified plastic repair of tricuspid valve ,1
+270968016,plastic repair of tricuspid valve nos ,1
+270980012,replacement of pulmonary valve nec ,1
+270983014,plastic repair of pulmonary valve nos ,1
+287262016,syphilitic endocarditis of heart valve nos ,1
+300009018,"pulmonary incompetence, cause unspecified ",1
+300022014,stenosis of unspecified heart valve ,1
+313353011,congenital atresia of pulmonary valve nos ,1
+313356015,congenital pulmonary stenosis nos ,1
+313429016,supernumerary heart valve cusps nec ,1
+315681012,[x]other congenital malformations of pulmonary valve ,1
+315698012,"[x]congenital malformation of tricuspid valve, unspecified ",1
+377169013,fusion of tricuspid valve cusps nec ,1
+400804011,fusion of heart valve cusps nec ,1
+1222316015,"pulmonary regurgitation, cause unspecified ",1
+1222320016,regurgitation of unspecified heart valve ,1
+55921000006118,xenograft replacement of tricuspid valve ,1
+193911000006111,"pulmonary stenosis, cause unspecified ",1
+204211000006118,prosthetic replacement of pulmonary valve ,1
+204241000006119,prosthetic replacement of tricuspid valve ,1
+297501000006112,nonrheumatic tricuspid valve stenosis with insufficiency ,1
+330141000006117,[so]pulmonary valve ,1
+478051000006111,allograft replacement of tricuspid valve ,1
+584801000006111,congenital pulmonary stenosis ,1
+783781000006111,"implant of heart valve prosthesis + complication, no blame ",1
+818841000006115,heart valve disorders - non rheumatic ,1
+1547091000006111,percutaneous transluminal pulmonary valve perfor dilation ,1
+460646014,[v]heart valve transplanted ,1
+460658014,[v]has artificial heart valve ,1
+271066013,heart valve and adjacent structures operations nos ,1
+105301000006111,therapeutic transluminal operation on heart valve os ,1
+818851000006118,heart valve or adjacent structures operations os ,1
+884261000006112,non-rheumatic valvular disease ,1
+168541000006110,rheumatic pulmonary stenosis ,1
+377170014,congenital insufficiency of heart valve nec ,1
+270963013,replacement of tricuspid valve nec ,1
+300010011,"pulmonary stenosis, cause unspecified ",1
+865151000006115,heart valve replace-prosthesis ,1
+394285014,annuloplasty of tricuspid valve ,1
+348798011,closure of tricuspid valve ,1
+299994010,"tricuspid incompetence, non-rheumatic ",1
+271000016,revision of plastic repair of tricuspid valve ,1
+271006010,open incision of heart valve ,1
+271022011,closed incision of heart valve ,1
+1222317012,"pulmonary insufficiency, cause unspecified ",1
+1222319010,insufficiency of unspecified heart valve ,1
+55911000006114,xenograft replacement of pulmonary valve ,1
+315682017,[x]other congenital malformations of tricuspid valve ,1
+348898019,pulmonary valvectomy ,1
+313352018,hypoplasia of pulmonary valve ,1
+300002010,"pulmonary regurgitation, non-rheumatic ",1
+271052015,therapeutic transluminal operation on heart valve nos ,1
+193971000006119,pulmonary valve anomalies ,1
+313349014,"pulmonary valve anomaly, unspecified ",1
+300008014,"pulmonary stenosis, non-rheumatic ",1
+270965018,repositioning of tricuspid valve ,1
+478031000006116,allograft replacement of pulmonary valve ,1
+865121000006112,heart valve operation nos ,1
+865131000006110,heart valve operations ,1
+1222306011,"tricuspid incompetence, cause unspecified ",1
+299622019,"tricuspid insufficiency, cause unspecified ",1
+300021019,incompetence of unspecified heart valve ,1
+313364014,other pulmonary valve anomaly nos ,1
+313425010,atresia of heart valve nec ,1
+313439010,unspecified anomaly of heart valve ,1
+1495489016,rheumatic pulmonary stenosis and insufficiency ,1
+313363015,supernumerary pulmonary valve cusps ,1
+348887015,closure of pulmonary valve ,1
+394279019,plastic repair of pulmonary valve ,1
+271001017,revision of plastic repair of pulmonary valve ,1
+287260012,syphilitic endocarditis of tricuspid valve ,1
+287261011,syphilitic endocarditis of pulmonary valve ,1
+300003017,"pulmonary insufficiency, non-rheumatic ",1
+301794016,acute pulmonary insufficiency following nonthoracic surgery ,1
+301795015,chronic pulmonary insufficiency following surgery ,1
+460696010,[v]presence of prosthetic heart valve ,1
+251925011,h/o: heart valve recipient ,1
+42309019,replacement of tricuspid valve ,1
+270982016,other specified plastic repair of pulmonary valve ,1
+583691000006118,"congenital malformation of tricuspid valve, unspecified ",1
