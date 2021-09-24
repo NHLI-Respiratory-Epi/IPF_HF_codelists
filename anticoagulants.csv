@@ -1,0 +1,43 @@
+prodcodeid,productname,route,formulation,strength,anticoag
+1531641000033118,Warfarin 1mg tablets,Oral,Tablet,1.000mg,1
+868141000033114,Marevan 1mg tablets,Oral,Tablet,1.000mg,1
+868241000033119,Marevan 3mg tablets,Oral,Tablet,3.000mg,1
+1531741000033110,Warfarin 3mg tablets,Oral,Tablet,3.000mg,1
+1531841000033117,Warfarin 5mg tablets,Oral,Tablet,5.000mg,1
+868341000033112,Marevan 5mg tablets,Oral,Tablet,5.000mg,1
+1819741000033117,Marevan 500microgram tablets,Oral,Tablet,500.000microgram,1
+1819641000033114,Warfarin 500microgram tablets,Oral,Tablet,500.000microgram,1
+6444441000033114,Apixaban 2.5mg tablets,Oral,Tablet,2.500mg,1
+6444541000033110,Eliquis 2.5mg tablets,Oral,Tablet,2.500mg,1
+8233041000033112,Eliquis 5mg tablets,Oral,Tablet,5.000mg,1
+8232941000033119,Apixaban 5mg tablets,Oral,Tablet,5.000mg,1
+2639041000033119,Warfarin 10mg/5ml oral suspension,Oral,Oral suspension,2.000mg/1.000ml,1
+6000541000033119,Warfarin 1mg/5ml oral solution,Oral,Oral solution,200.000microgram/1.000ml,1
+6000841000033117,Warfarin 1mg/5ml oral suspension,Oral,Oral suspension,200.000microgram/1.000ml,1
+6000641000033118,Warfarin 3mg/5ml oral solution,Oral,Oral solution,600.000microgram/1.000ml,1
+6000941000033113,Warfarin 3mg/5ml oral suspension,Oral,Oral suspension,600.000microgram/1.000ml,1
+6000741000033110,Warfarin 5mg/5ml oral solution,Oral,Oral solution,1.000mg/1.000ml,1
+2620141000033114,Warfarin 5mg/5ml oral suspension,Oral,Oral suspension,1.000mg/1.000ml,1
+4500341000033115,Dabigatran etexilate 110mg capsules,Oral,Capsule,110.000mg,1
+4500541000033110,Pradaxa 110mg capsules,Oral,Capsule,110.000mg,1
+4500241000033113,Dabigatran etexilate 75mg capsules,Oral,Capsule,75.000mg,1
+4500441000033114,Pradaxa 75mg capsules,Oral,Capsule,75.000mg,1
+4656341000033115,Rivaroxaban 10mg tablets,Oral,Tablet,10.000mg,1
+4656441000033114,Xarelto 10mg tablets,Oral,Tablet,10.000mg,1
+6066441000033118,Warfarin 1mg/ml oral suspension sugar free,Oral,Oral suspension,1.000mg/1.000ml,1
+6436141000033111,Dabigatran etexilate 150mg capsules,Oral,Capsule,150.000mg,1
+6436241000033116,Pradaxa 150mg capsules,Oral,Capsule,150.000mg,1
+6511341000033117,Rivaroxaban 15mg tablets,Oral,Tablet,15.000mg,1
+6511541000033112,Xarelto 15mg tablets,Oral,Tablet,15.000mg,1
+6511641000033113,Xarelto 20mg tablets,Oral,Tablet,20.000mg,1
+6511441000033111,Rivaroxaban 20mg tablets,Oral,Tablet,20.000mg,1
+9704641000033115,Xarelto 2.5mg tablets,Oral,Tablet,2.500mg,1
+9704541000033116,Rivaroxaban 2.5mg tablets,Oral,Tablet,2.500mg,1
+10493541000033110,Edoxaban 15mg tablets,Oral,Tablet,15.000mg,1
+10493841000033112,Lixiana 15mg tablets,Oral,Tablet,15.000mg,1
+10493941000033116,Lixiana 30mg tablets,Oral,Tablet,30.000mg,1
+10493641000033111,Edoxaban 30mg tablets,Oral,Tablet,30.000mg,1
+10493741000033119,Edoxaban 60mg tablets,Oral,Tablet,60.000mg,1
+10494041000033119,Lixiana 60mg tablets,Oral,Tablet,60.000mg,1
+12407041000033117,Rivaroxaban 15mg tablets and Rivaroxaban 20mg tablets,Route of administration not applicable,Not applicable,,1
+12407141000033118,Xarelto 15mg / 20mg treatment initiation pack,,Not applicable,,1
